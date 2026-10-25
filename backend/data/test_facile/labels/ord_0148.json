@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Daflon",
+      "dci": "Diosmine/Hespéridine",
+      "dosage": "500 mg",
+      "indication": "Insuffisance veineuse et hémorroïdes",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Aspégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "1000 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Smecta",
+      "dci": "Diosmectite",
+      "dosage": "3 g",
+      "indication": "Diarrhée",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Glucophage",
+      "dci": "Metformine",
+      "dosage": "500 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Zolpidem Mylan",
+      "dci": "Zolpidem",
+      "dosage": "10 mg",
+      "indication": "Insomnie sévère (courte durée)",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Hatem Haddad\nORL - Nabeul\nPatient : Rim Bouzid  Âge : 45 ans\nLe 15/12/2026\nORDONNANCE\n1) Daflon 500 mg\n1 comprimé 3 fois par jour - 7 jours\n2) Aspégic 1000 mg\n1 comprimé 2 fois par jour - 1 mois\n3) Smecta 3 g\n1 comprimé 2 fois par jour - 3 mois\n4) Glucophage 500 mg\n1 comprimé 2 fois par jour - 7 jours\n5) Zolpidem Mylan 10 mg\n1 comprimé le matin - 1 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

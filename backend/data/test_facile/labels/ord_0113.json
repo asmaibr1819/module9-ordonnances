@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Gaviscon",
+      "dci": "Alginate de sodium",
+      "dosage": "500 mg",
+      "indication": "Brûlures d'estomac et remontées acides",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Uvédose",
+      "dci": "Vitamine D3",
+      "dosage": "100 000 UI",
+      "indication": "Carence en vitamine D",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Lina Jlassi\nMédecine interne - Ariana\nPatient : Yasmine Ben Salah  Âge : 56 ans\nLe 06/11/2026\nORDONNANCE\n1) Gaviscon 500 mg\n1 cp x 2/jour - 10 jours\n2) Uvédose 100 000 UI\n1 cp le matin - 14 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

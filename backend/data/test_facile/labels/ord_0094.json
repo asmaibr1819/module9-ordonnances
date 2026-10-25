@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Zovirax",
+      "dci": "Aciclovir",
+      "dosage": "400 mg",
+      "indication": "Herpès et zona",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Kardégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "160 mg",
+      "indication": "Prévention des accidents cardiovasculaires (fluidifie le sang)",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Daflon",
+      "dci": "Diosmine/Hespéridine",
+      "dosage": "500 mg",
+      "indication": "Insuffisance veineuse et hémorroïdes",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Voltarène",
+      "dci": "Diclofénac",
+      "dosage": "50 mg",
+      "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Salma Mansouri\nPédiatrie - Bizerte\nPatient : Sami Hamdi  Âge : 29 ans\nLe 06/03/2026\nORDONNANCE\n1) Zovirax 400 mg\n1 comprimé matin et soir - 7 jours\n2) Kardégic 160 mg\n1 sachet 2 fois par jour - 7 jours\n3) Daflon 500 mg\n1 comprimé matin et soir - 10 jours\n4) Voltarène 50 mg\n1 comprimé matin et soir - 7 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

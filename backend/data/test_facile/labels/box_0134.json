@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Inexium",
+      "dci": "Ésoméprazole",
+      "dosage": "40 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Inexium\n40 mg\nÉsoméprazole\nBoîte de 30 comprimés\nLot 42218   EXP 11/2029",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

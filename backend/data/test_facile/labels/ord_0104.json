@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Amlor",
+      "dci": "Amlodipine",
+      "dosage": "10 mg",
+      "indication": "Hypertension artérielle",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Celestène",
+      "dci": "Bétaméthasone",
+      "dosage": "0,5 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Advil",
+      "dci": "Ibuprofène",
+      "dosage": "200 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Sami Gharbi\nDermatologie - La Manouba\nPatient : Youssef Trabelsi  Âge : 35 ans\nLe 03/08/2026\nORDONNANCE\n1) Amlor 10 mg\n1 cp x 2/jour - 5 jours\n2) Celestène 0,5 mg\n1 cp matin et soir - 3 mois\n3) Advil 200 mg\n2 cp x 3/jour - 7 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

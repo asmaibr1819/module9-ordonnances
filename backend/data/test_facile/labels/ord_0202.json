@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Voltarène",
+      "dci": "Diclofénac",
+      "dosage": "75 mg",
+      "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Ventoline",
+      "dci": "Salbutamol",
+      "dosage": "100 µg",
+      "indication": "Crises d'asthme (dilate les bronches)",
+      "posologie": "2 bouffées en cas de crise",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Myolastan",
+      "dci": "Tétrazépam",
+      "dosage": "50 mg",
+      "indication": "Contractures musculaires douloureuses",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Hatem Haddad\nMédecine générale - Nabeul\nPatient : Amira Jlassi  Âge : 81 ans\nLe 10/10/2026\nORDONNANCE\n1) Voltarène 75 mg\n2 comprimés 3 fois par jour - 10 jours\n2) Ventoline 100 µg\n2 bouffées en cas de crise - 10 jours\n3) Myolastan 50 mg\n1 comprimé 2 fois par jour - 14 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

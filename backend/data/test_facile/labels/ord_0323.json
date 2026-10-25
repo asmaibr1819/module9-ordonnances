@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Advil",
+      "dci": "Ibuprofène",
+      "dosage": "400 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Clarityne",
+      "dci": "Loratadine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Bactrim",
+      "dci": "Sulfaméthoxazole/Triméthoprime",
+      "dosage": "400 mg/80 mg",
+      "indication": "Infections bactériennes, notamment urinaires (antibiotique)",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Sassi\nMédecine interne - Nabeul\nPatient : Yasmine Sassi  Âge : 81 ans\nLe 03/05/2026\nORDONNANCE\n1) Advil 400 mg\n1 comprimé le soir - 3 jours\n2) Clarityne 10 mg\n1 comprimé le soir - 3 jours\n3) Bactrim 400 mg/80 mg\n1 comprimé le soir - 3 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

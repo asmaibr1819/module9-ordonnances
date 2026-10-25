@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Zolpidem Mylan",
+      "dci": "Zolpidem",
+      "dosage": "10 mg",
+      "indication": "Insomnie sévère (courte durée)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Zolpidem Mylan\n10 mg\nZolpidem\nBoîte de 24 comprimés\nLot 27935   EXP 12/2029",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Tardyferon",
+      "dci": "Sulfate ferreux",
+      "dosage": "80 mg",
+      "indication": "Carence en fer (anémie)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Tardyferon\n80 mg\nSulfate ferreux\nBoîte de 8 comprimés\nLot 89240   EXP 10/2027",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

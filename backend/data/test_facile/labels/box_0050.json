@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Mucolator",
+      "dci": "Carbocistéine",
+      "dosage": "750 mg",
+      "indication": "Toux grasse et encombrement des bronches",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Mucolator\n750 mg\nCarbocistéine\nBoîte de 10 sirops\nLot 16592   EXP 12/2028",
+  "_meta": {
+    "forme": "sirop"
+  }
+}

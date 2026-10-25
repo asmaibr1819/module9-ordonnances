@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Daflon",
+      "dci": "Diosmine/Hespéridine",
+      "dosage": "500 mg",
+      "indication": "Insuffisance veineuse et hémorroïdes",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Aspégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Panadol",
+      "dci": "Paracétamol",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Amlor",
+      "dci": "Amlodipine",
+      "dosage": "5 mg",
+      "indication": "Hypertension artérielle",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Solupred",
+      "dci": "Prednisolone",
+      "dosage": "20 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Amira Chaabane\nMédecine générale - Ariana\nPatient : Salma Haddad  Âge : 57 ans\nLe 28/09/2026\nORDONNANCE\n1) Daflon 500 mg\n1 cp le matin - 10 jours\n2) Aspégic 500 mg\n1 sach x 2/jour - 3 mois\n3) Panadol 500 mg\n1 cp matin et soir - 3 mois\n4) Amlor 5 mg\n1 cp x 2/jour - 5 jours\n5) Solupred 20 mg\n2 cp x 3/jour - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

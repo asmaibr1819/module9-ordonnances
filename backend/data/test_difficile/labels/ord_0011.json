@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Nurofen",
+      "dci": "Ibuprofène",
+      "dosage": "200 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Ciprofloxacine Biogaran",
+      "dci": "Ciprofloxacine",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes, notamment urinaires (antibiotique)",
+      "posologie": "1 comprimé le soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Inexium",
+      "dci": "Ésoméprazole",
+      "dosage": "20 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Maxidrol",
+      "dci": "Dexaméthasone/Néomycine",
+      "dosage": "0,1 %",
+      "indication": "Inflammation de l'œil avec infection (collyre)",
+      "posologie": "1 application matin et soir",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Hatem Chaabane\nCardiologie - Sousse\nPatient : Hatem Haddad  Âge : 5 ans\nLe 23/12/2026\nORDONNANCE\n1) Nurofen 200 mg\n1 cp le matin - 10 jours\n2) Ciprofloxacine Biogaran 500 mg\n1 cp le soir - 1 mois\n3) Inexium 20 mg\n1 cp matin et soir - 10 jours\n4) Maxidrol 0,1 %\n1 appl. matin et soir - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

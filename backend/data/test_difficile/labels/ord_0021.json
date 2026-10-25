@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Flagyl",
+      "dci": "Métronidazole",
+      "dosage": "250 mg",
+      "indication": "Infections bactériennes et parasitaires",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Myolastan",
+      "dci": "Tétrazépam",
+      "dosage": "50 mg",
+      "indication": "Contractures musculaires douloureuses",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Crestor",
+      "dci": "Rosuvastatine",
+      "dosage": "20 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Nour Haddad\nMédecine générale - Tunis\nPatient : Aymen Khelifi  Âge : 40 ans\nLe 10/07/2026\nORDONNANCE\n1) Flagyl 250 mg\n1 cp x 3/jour - 1 mois\n2) Myolastan 50 mg\n1 cp matin et soir - 1 mois\n3) Crestor 20 mg\n2 cp x 3/jour - 7 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

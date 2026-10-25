@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Tranxène",
+      "dci": "Clorazépate",
+      "dosage": "10 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Tranxène\n10 mg\nClorazépate\nBoîte de 16 gélules\nLot 33634   EXP 08/2027",
+  "_meta": {
+    "forme": "gélule"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Clarityne",
+      "dci": "Loratadine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "1 comprimé le soir",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Yasmine Ben Salah\nORL - Sousse\nPatient : Ines Trabelsi  Âge : 54 ans\nLe 16/07/2026\nORDONNANCE\n1) Clarityne 10 mg\n1 comprimé le soir - 1 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Myolastan",
+      "dci": "Tétrazépam",
+      "dosage": "50 mg",
+      "indication": "Contractures musculaires douloureuses",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Spasfon",
+      "dci": "Phloroglucinol",
+      "dosage": "80 mg",
+      "indication": "Douleurs spasmodiques (ventre, règles)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Salma Bouzid\nPédiatrie - La Manouba\nPatient : Salma Hamdi  Âge : 65 ans\nLe 10/03/2026\nORDONNANCE\n1) Myolastan 50 mg\n1 cp le matin - 1 mois\n2) Spasfon 80 mg\n1 cp x 2/jour - 14 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

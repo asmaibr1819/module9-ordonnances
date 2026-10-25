@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Tamiflu",
+      "dci": "Oseltamivir",
+      "dosage": "75 mg",
+      "indication": "Grippe (traitement antiviral)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Tamiflu\n75 mg\nOseltamivir\nBoîte de 24 gélules\nLot 49366   EXP 12/2028",
+  "_meta": {
+    "forme": "gélule"
+  }
+}

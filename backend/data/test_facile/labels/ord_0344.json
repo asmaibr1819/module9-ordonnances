@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Flagyl",
+      "dci": "Métronidazole",
+      "dosage": "250 mg",
+      "indication": "Infections bactériennes et parasitaires",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Crestor",
+      "dci": "Rosuvastatine",
+      "dosage": "20 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Myolastan",
+      "dci": "Tétrazépam",
+      "dosage": "50 mg",
+      "indication": "Contractures musculaires douloureuses",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Oroken",
+      "dci": "Céfixime",
+      "dosage": "200 mg",
+      "indication": "Infections bactériennes ORL et respiratoires (antibiotique)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Doliprane",
+      "dci": "Paracétamol",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Sami Hamdi\nMédecine générale - Tunis\nPatient : Yasmine Haddad  Âge : 33 ans\nLe 25/11/2026\nORDONNANCE\n1) Flagyl 250 mg\n1 cp x 3/jour - 10 jours\n2) Crestor 20 mg\n2 cp x 3/jour - 3 jours\n3) Myolastan 50 mg\n1 cp x 3/jour - 14 jours\n4) Oroken 200 mg\n1 cp x 3/jour - 1 mois\n5) Doliprane 500 mg\n1 cp le matin - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

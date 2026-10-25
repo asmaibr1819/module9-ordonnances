@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Kardégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "75 mg",
+      "indication": "Prévention des accidents cardiovasculaires (fluidifie le sang)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Kardégic\n75 mg\nAcide acétylsalicylique\nBoîte de 10 sachets\nLot 40088   EXP 11/2027",
+  "_meta": {
+    "forme": "sachet"
+  }
+}

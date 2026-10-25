@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Zolpidem Mylan",
+      "dci": "Zolpidem",
+      "dosage": "10 mg",
+      "indication": "Insomnie sévère (courte durée)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Bilel Hamdi\nDermatologie - Tunis\nPatient : Ines Khelifi  Âge : 29 ans\nLe 05/12/2026\nORDONNANCE\n1) Zolpidem Mylan 10 mg\n1 cp matin et soir - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

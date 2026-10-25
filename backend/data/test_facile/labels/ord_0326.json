@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Mycostatine",
+      "dci": "Nystatine",
+      "dosage": "100 000 UI/ml",
+      "indication": "Mycoses de la bouche et du tube digestif",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Smecta",
+      "dci": "Diosmectite",
+      "dosage": "3 g",
+      "indication": "Diarrhée",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Youssef Chaabane\nCardiologie - Ariana\nPatient : Youssef Ben Ammar  Âge : 44 ans\nLe 18/06/2026\nORDONNANCE\n1) Mycostatine 100 000 UI/ml\n1 c.à.s x 3/j - 5 jours\n2) Smecta 3 g\n1 cp x 2/jour - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Dacryoserum",
+      "dci": "Chlorure de sodium",
+      "dosage": "0,9 %",
+      "indication": "Nettoyage et lavage des yeux",
+      "posologie": "1 application matin et soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Solupred",
+      "dci": "Prednisolone",
+      "dosage": "20 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Yasmine Ben Ammar\nMédecine interne - Sfax\nPatient : Walid Hamdi  Âge : 8 ans\nLe 02/08/2026\nORDONNANCE\n1) Dacryoserum 0,9 %\n1 appl. matin et soir - 1 mois\n2) Solupred 20 mg\n1 cp x 2/jour - 7 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

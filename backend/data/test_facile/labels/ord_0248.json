@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Solupred",
+      "dci": "Prednisolone",
+      "dosage": "20 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Lina Sassi\nCardiologie - La Manouba\nPatient : Salma Trabelsi  Âge : 32 ans\nLe 24/05/2026\nORDONNANCE\n1) Solupred 20 mg\n2 cp x 3/jour - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

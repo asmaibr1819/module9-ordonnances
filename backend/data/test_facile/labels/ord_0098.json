@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Clarityne",
+      "dci": "Loratadine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Gaviscon",
+      "dci": "Alginate de sodium",
+      "dosage": "500 mg",
+      "indication": "Brûlures d'estomac et remontées acides",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Mucolator",
+      "dci": "Carbocistéine",
+      "dosage": "750 mg",
+      "indication": "Toux grasse et encombrement des bronches",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Salma Ben Ammar\nCardiologie - La Manouba\nPatient : Amira Mansouri  Âge : 53 ans\nLe 06/07/2026\nORDONNANCE\n1) Clarityne 10 mg\n2 comprimés 3 fois par jour - 14 jours\n2) Gaviscon 500 mg\n1 comprimé 2 fois par jour - 3 jours\n3) Mucolator 750 mg\n1 cuillère à soupe 3 fois par jour - 3 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Panadol",
+      "dci": "Paracétamol",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Panadol\n500 mg\nParacétamol\nBoîte de 30 comprimés\nLot 83493   EXP 11/2027",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Brufen",
+      "dci": "Ibuprofène",
+      "dosage": "400 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Brufen\n400 mg\nIbuprofène\nBoîte de 20 comprimés\nLot 34332   EXP 04/2027",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

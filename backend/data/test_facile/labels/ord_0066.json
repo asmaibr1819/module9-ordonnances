@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Daflon",
+      "dci": "Diosmine/Hespéridine",
+      "dosage": "500 mg",
+      "indication": "Insuffisance veineuse et hémorroïdes",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Augmentin",
+      "dci": "Amoxicilline/Acide clavulanique",
+      "dosage": "1 g/125 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Amira Gharbi\nDermatologie - Sfax\nPatient : Walid Hamdi  Âge : 80 ans\nLe 13/10/2026\nORDONNANCE\n1) Daflon 500 mg\n2 cp x 3/jour - 3 jours\n2) Augmentin 1 g/125 mg\n1 cp x 3/jour - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

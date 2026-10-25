@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Fucidine",
+      "dci": "Acide fusidique",
+      "dosage": "2 %",
+      "indication": "Infections bactériennes de la peau",
+      "posologie": "1 application matin et soir",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Levothyrox",
+      "dci": "Lévothyroxine",
+      "dosage": "75 µg",
+      "indication": "Insuffisance thyroïdienne",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Myolastan",
+      "dci": "Tétrazépam",
+      "dosage": "50 mg",
+      "indication": "Contractures musculaires douloureuses",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Aymen Trabelsi\nPédiatrie - Bizerte\nPatient : Lina Mansouri  Âge : 38 ans\nLe 20/03/2026\nORDONNANCE\n1) Fucidine 2 %\n1 appl. matin et soir - 14 jours\n2) Levothyrox 75 µg\n1 cp x 3/jour - 1 mois\n3) Myolastan 50 mg\n1 cp x 2/jour - 7 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

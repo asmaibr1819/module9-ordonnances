@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Xanax",
+      "dci": "Alprazolam",
+      "dosage": "0,5 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "1 comprimé le soir",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Walid Bouzid\nCardiologie - La Manouba\nPatient : Rim Jlassi  Âge : 52 ans\nLe 25/10/2026\nORDONNANCE\n1) Xanax 0,5 mg\n1 comprimé le soir - 7 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

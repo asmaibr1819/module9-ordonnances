@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Augmentin",
+      "dci": "Amoxicilline/Acide clavulanique",
+      "dosage": "1 g/125 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé le soir",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Haddad\nORL - Sfax\nPatient : Ines Jlassi  Âge : 58 ans\nLe 27/03/2026\nORDONNANCE\n1) Augmentin 1 g/125 mg\n1 cp le soir - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

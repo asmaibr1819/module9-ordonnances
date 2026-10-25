@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Xanax",
+      "dci": "Alprazolam",
+      "dosage": "0,5 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Walid Ben Salah\nDermatologie - Nabeul\nPatient : Hatem Ben Ammar  Âge : 54 ans\nLe 06/06/2026\nORDONNANCE\n1) Xanax 0,5 mg\n1 cp le matin - 14 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

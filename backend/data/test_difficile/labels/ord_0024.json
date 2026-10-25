@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Ventoline",
+      "dci": "Salbutamol",
+      "dosage": "100 µg",
+      "indication": "Crises d'asthme (dilate les bronches)",
+      "posologie": "2 bouffées en cas de crise",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Tardyferon",
+      "dci": "Sulfate ferreux",
+      "dosage": "80 mg",
+      "indication": "Carence en fer (anémie)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Fluconazole Arrow",
+      "dci": "Fluconazole",
+      "dosage": "150 mg",
+      "indication": "Infections fongiques (candidose)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Panadol",
+      "dci": "Paracétamol",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Karim Bouzid\nORL - Tunis\nPatient : Walid Jlassi  Âge : 68 ans\nLe 09/04/2026\nORDONNANCE\n1) Ventoline 100 µg\n2 bouffées si crise - 10 jours\n2) Tardyferon 80 mg\n1 cp x 2/jour - 3 jours\n3) Fluconazole Arrow 150 mg\n1 cp x 2/jour - 5 jours\n4) Panadol 500 mg\n1 cp matin et soir - 3 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

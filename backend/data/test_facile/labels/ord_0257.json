@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Doliprane",
+      "dci": "Paracétamol",
+      "dosage": "1000 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Amira Chaabane\nCardiologie - Sfax\nPatient : Amira Jlassi  Âge : 59 ans\nLe 06/11/2026\nORDONNANCE\n1) Doliprane 1000 mg\n2 comprimés 3 fois par jour - 10 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

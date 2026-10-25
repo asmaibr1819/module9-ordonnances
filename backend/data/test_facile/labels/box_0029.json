@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Clarityne",
+      "dci": "Loratadine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Clarityne\n10 mg\nLoratadine\nBoîte de 12 comprimés\nLot 88255   EXP 05/2027",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

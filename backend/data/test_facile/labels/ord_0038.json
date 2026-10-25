@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Advil",
+      "dci": "Ibuprofène",
+      "dosage": "200 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Sami Mansouri\nPédiatrie - La Manouba\nPatient : Rim Ben Salah  Âge : 20 ans\nLe 17/03/2026\nORDONNANCE\n1) Advil 200 mg\n2 comprimés 3 fois par jour - 1 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

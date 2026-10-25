@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Clarityne",
+      "dci": "Loratadine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Yasmine Ben Ammar\nMédecine générale - La Manouba\nPatient : Salma Ben Salah  Âge : 16 ans\nLe 04/09/2026\nORDONNANCE\n1) Clarityne 10 mg\n2 cp x 3/jour - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

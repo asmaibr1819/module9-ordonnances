@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Mucolator",
+      "dci": "Carbocistéine",
+      "dosage": "750 mg",
+      "indication": "Toux grasse et encombrement des bronches",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Brufen",
+      "dci": "Ibuprofène",
+      "dosage": "600 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Cataflam",
+      "dci": "Diclofénac potassique",
+      "dosage": "50 mg",
+      "indication": "Douleurs et inflammations",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Sassi\nORL - Sousse\nPatient : Sami Ben Salah  Âge : 38 ans\nLe 03/01/2026\nORDONNANCE\n1) Mucolator 750 mg\n1 c.à.s x 3/j - 7 jours\n2) Brufen 600 mg\n1 cp matin et soir - 14 jours\n3) Cataflam 50 mg\n2 cp x 3/jour - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Amarel",
+      "dci": "Glimépiride",
+      "dosage": "2 mg",
+      "indication": "Diabète de type 2",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Amarel\n2 mg\nGlimépiride\nBoîte de 10 comprimés\nLot 53579   EXP 04/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

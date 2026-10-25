@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Oroken",
+      "dci": "Céfixime",
+      "dosage": "200 mg",
+      "indication": "Infections bactériennes ORL et respiratoires (antibiotique)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Daflon",
+      "dci": "Diosmine/Hespéridine",
+      "dosage": "500 mg",
+      "indication": "Insuffisance veineuse et hémorroïdes",
+      "posologie": "1 comprimé le soir",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Panadol",
+      "dci": "Paracétamol",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Deroxat",
+      "dci": "Paroxétine",
+      "dosage": "20 mg",
+      "indication": "Dépression et troubles anxieux",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Sassi\nCardiologie - Bizerte\nPatient : Bilel Sassi  Âge : 39 ans\nLe 16/03/2026\nORDONNANCE\n1) Oroken 200 mg\n1 comprimé 3 fois par jour - 14 jours\n2) Daflon 500 mg\n1 comprimé le soir - 14 jours\n3) Panadol 500 mg\n1 comprimé le soir - 3 mois\n4) Deroxat 20 mg\n1 comprimé le soir - 3 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

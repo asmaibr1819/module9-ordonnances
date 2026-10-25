@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Celestène",
+      "dci": "Bétaméthasone",
+      "dosage": "0,5 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Amira Khelifi\nCardiologie - Sfax\nPatient : Hatem Hamdi  Âge : 60 ans\nLe 11/05/2026\nORDONNANCE\n1) Celestène 0,5 mg\n1 comprimé matin et soir - 5 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

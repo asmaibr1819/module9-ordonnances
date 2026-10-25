@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Daflon",
+      "dci": "Diosmine/Hespéridine",
+      "dosage": "500 mg",
+      "indication": "Insuffisance veineuse et hémorroïdes",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Daflon\n500 mg\nDiosmine/Hespéridine\nBoîte de 8 comprimés\nLot 85549   EXP 05/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

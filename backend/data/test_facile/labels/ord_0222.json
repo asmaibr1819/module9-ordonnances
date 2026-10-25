@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Celestène",
+      "dci": "Bétaméthasone",
+      "dosage": "0,5 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Myolastan",
+      "dci": "Tétrazépam",
+      "dosage": "50 mg",
+      "indication": "Contractures musculaires douloureuses",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Brufen",
+      "dci": "Ibuprofène",
+      "dosage": "600 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Crestor",
+      "dci": "Rosuvastatine",
+      "dosage": "20 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Bilel Mansouri\nMédecine interne - Ben Arous\nPatient : Amira Bouzid  Âge : 46 ans\nLe 02/09/2026\nORDONNANCE\n1) Celestène 0,5 mg\n1 cp x 3/jour - 7 jours\n2) Myolastan 50 mg\n2 cp x 3/jour - 5 jours\n3) Brufen 600 mg\n1 cp le matin - 10 jours\n4) Crestor 20 mg\n2 cp x 3/jour - 5 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

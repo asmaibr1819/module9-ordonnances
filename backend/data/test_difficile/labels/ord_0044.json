@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Zithromax",
+      "dci": "Azithromycine",
+      "dosage": "250 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Bétadine",
+      "dci": "Povidone iodée",
+      "dosage": "10 %",
+      "indication": "Antiseptique : désinfection de la peau et des plaies",
+      "posologie": "1 application matin et soir",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Lina Haddad\nDermatologie - Sfax\nPatient : Sami Trabelsi  Âge : 62 ans\nLe 01/06/2026\nORDONNANCE\n1) Zithromax 250 mg\n1 cp matin et soir - 3 jours\n2) Bétadine 10 %\n1 appl. matin et soir - 14 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Tramadol Biogaran",
+      "dci": "Tramadol",
+      "dosage": "50 mg",
+      "indication": "Douleurs modérées à intenses",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Hamdi\nDermatologie - Nabeul\nPatient : Salma Ben Ammar  Âge : 68 ans\nLe 12/10/2026\nORDONNANCE\n1) Tramadol Biogaran 50 mg\n1 cp x 2/jour - 3 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

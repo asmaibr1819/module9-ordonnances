@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Aspégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "1000 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Youssef Haddad\nMédecine interne - La Manouba\nPatient : Hatem Haddad  Âge : 19 ans\nLe 28/05/2026\nORDONNANCE\n1) Aspégic 1000 mg\n1 comprimé 2 fois par jour - 5 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

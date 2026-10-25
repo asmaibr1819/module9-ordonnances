@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Voltarène",
+      "dci": "Diclofénac",
+      "dosage": "75 mg",
+      "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Voltarène\n75 mg\nDiclofénac\nBoîte de 16 comprimés\nLot 11898   EXP 03/2027",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

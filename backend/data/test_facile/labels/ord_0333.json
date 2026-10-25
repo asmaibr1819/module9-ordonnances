@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Voltarène",
+      "dci": "Diclofénac",
+      "dosage": "75 mg",
+      "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Panadol",
+      "dci": "Paracétamol",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Coversyl",
+      "dci": "Périndopril",
+      "dosage": "5 mg",
+      "indication": "Hypertension artérielle et insuffisance cardiaque",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Cataflam",
+      "dci": "Diclofénac potassique",
+      "dosage": "50 mg",
+      "indication": "Douleurs et inflammations",
+      "posologie": "1 comprimé le matin",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Mucolator",
+      "dci": "Carbocistéine",
+      "dosage": "750 mg",
+      "indication": "Toux grasse et encombrement des bronches",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "3 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Rim Ben Salah\nMédecine générale - Nabeul\nPatient : Mehdi Chaabane  Âge : 34 ans\nLe 25/12/2026\nORDONNANCE\n1) Voltarène 75 mg\n1 cp x 3/jour - 3 mois\n2) Panadol 500 mg\n2 cp x 3/jour - 3 jours\n3) Coversyl 5 mg\n1 cp x 2/jour - 5 jours\n4) Cataflam 50 mg\n1 cp le matin - 7 jours\n5) Mucolator 750 mg\n1 c.à.s x 3/j - 3 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

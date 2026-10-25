@@ -1,0 +1,571 @@
+[
+  {
+    "marque": "Doliprane",
+    "dci": "Paracétamol",
+    "dosages": [
+      "500 mg",
+      "1000 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Douleurs et fièvre"
+  },
+  {
+    "marque": "Efferalgan",
+    "dci": "Paracétamol",
+    "dosages": [
+      "500 mg",
+      "1000 mg"
+    ],
+    "forme": "comprimé effervescent",
+    "indication": "Douleurs et fièvre"
+  },
+  {
+    "marque": "Panadol",
+    "dci": "Paracétamol",
+    "dosages": [
+      "500 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Douleurs et fièvre"
+  },
+  {
+    "marque": "Advil",
+    "dci": "Ibuprofène",
+    "dosages": [
+      "200 mg",
+      "400 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Douleurs, fièvre et inflammation"
+  },
+  {
+    "marque": "Brufen",
+    "dci": "Ibuprofène",
+    "dosages": [
+      "400 mg",
+      "600 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Douleurs, fièvre et inflammation"
+  },
+  {
+    "marque": "Nurofen",
+    "dci": "Ibuprofène",
+    "dosages": [
+      "200 mg",
+      "400 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Douleurs, fièvre et inflammation"
+  },
+  {
+    "marque": "Aspégic",
+    "dci": "Acide acétylsalicylique",
+    "dosages": [
+      "500 mg",
+      "1000 mg"
+    ],
+    "forme": "sachet",
+    "indication": "Douleurs et fièvre"
+  },
+  {
+    "marque": "Voltarène",
+    "dci": "Diclofénac",
+    "dosages": [
+      "50 mg",
+      "75 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)"
+  },
+  {
+    "marque": "Augmentin",
+    "dci": "Amoxicilline/Acide clavulanique",
+    "dosages": [
+      "500 mg/62,5 mg",
+      "1 g/125 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Infections bactériennes (antibiotique)"
+  },
+  {
+    "marque": "Clamoxyl",
+    "dci": "Amoxicilline",
+    "dosages": [
+      "500 mg",
+      "1 g"
+    ],
+    "forme": "gélule",
+    "indication": "Infections bactériennes (antibiotique)"
+  },
+  {
+    "marque": "Zithromax",
+    "dci": "Azithromycine",
+    "dosages": [
+      "250 mg",
+      "500 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Infections bactériennes (antibiotique)"
+  },
+  {
+    "marque": "Ciprofloxacine Biogaran",
+    "dci": "Ciprofloxacine",
+    "dosages": [
+      "500 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Infections bactériennes, notamment urinaires (antibiotique)"
+  },
+  {
+    "marque": "Flagyl",
+    "dci": "Métronidazole",
+    "dosages": [
+      "250 mg",
+      "500 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Infections bactériennes et parasitaires"
+  },
+  {
+    "marque": "Bactrim",
+    "dci": "Sulfaméthoxazole/Triméthoprime",
+    "dosages": [
+      "400 mg/80 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Infections bactériennes, notamment urinaires (antibiotique)"
+  },
+  {
+    "marque": "Oroken",
+    "dci": "Céfixime",
+    "dosages": [
+      "200 mg",
+      "400 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Infections bactériennes ORL et respiratoires (antibiotique)"
+  },
+  {
+    "marque": "Mopral",
+    "dci": "Oméprazole",
+    "dosages": [
+      "10 mg",
+      "20 mg"
+    ],
+    "forme": "gélule",
+    "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)"
+  },
+  {
+    "marque": "Inexium",
+    "dci": "Ésoméprazole",
+    "dosages": [
+      "20 mg",
+      "40 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)"
+  },
+  {
+    "marque": "Gaviscon",
+    "dci": "Alginate de sodium",
+    "dosages": [
+      "500 mg"
+    ],
+    "forme": "sachet",
+    "indication": "Brûlures d'estomac et remontées acides"
+  },
+  {
+    "marque": "Smecta",
+    "dci": "Diosmectite",
+    "dosages": [
+      "3 g"
+    ],
+    "forme": "sachet",
+    "indication": "Diarrhée"
+  },
+  {
+    "marque": "Spasfon",
+    "dci": "Phloroglucinol",
+    "dosages": [
+      "80 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Douleurs spasmodiques (ventre, règles)"
+  },
+  {
+    "marque": "Motilium",
+    "dci": "Dompéridone",
+    "dosages": [
+      "10 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Nausées, vomissements et ballonnements"
+  },
+  {
+    "marque": "Imodium",
+    "dci": "Lopéramide",
+    "dosages": [
+      "2 mg"
+    ],
+    "forme": "gélule",
+    "indication": "Diarrhée aiguë"
+  },
+  {
+    "marque": "Ventoline",
+    "dci": "Salbutamol",
+    "dosages": [
+      "100 µg"
+    ],
+    "forme": "spray",
+    "indication": "Crises d'asthme (dilate les bronches)"
+  },
+  {
+    "marque": "Aerius",
+    "dci": "Desloratadine",
+    "dosages": [
+      "5 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Allergies (rhume des foins, urticaire)"
+  },
+  {
+    "marque": "Zyrtec",
+    "dci": "Cétirizine",
+    "dosages": [
+      "10 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Allergies (rhume des foins, urticaire)"
+  },
+  {
+    "marque": "Clarityne",
+    "dci": "Loratadine",
+    "dosages": [
+      "10 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Allergies (rhume des foins, urticaire)"
+  },
+  {
+    "marque": "Solupred",
+    "dci": "Prednisolone",
+    "dosages": [
+      "5 mg",
+      "20 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Inflammations et allergies sévères (corticoïde)"
+  },
+  {
+    "marque": "Celestène",
+    "dci": "Bétaméthasone",
+    "dosages": [
+      "0,5 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Inflammations et allergies sévères (corticoïde)"
+  },
+  {
+    "marque": "Mucolator",
+    "dci": "Carbocistéine",
+    "dosages": [
+      "750 mg"
+    ],
+    "forme": "sirop",
+    "indication": "Toux grasse et encombrement des bronches"
+  },
+  {
+    "marque": "Toplexil",
+    "dci": "Oxomémazine",
+    "dosages": [
+      "0,33 mg/ml"
+    ],
+    "forme": "sirop",
+    "indication": "Toux sèche"
+  },
+  {
+    "marque": "Fervex",
+    "dci": "Paracétamol/Phéniramine/Vitamine C",
+    "dosages": [
+      "500 mg"
+    ],
+    "forme": "sachet",
+    "indication": "Symptômes du rhume et de la grippe"
+  },
+  {
+    "marque": "Glucophage",
+    "dci": "Metformine",
+    "dosages": [
+      "500 mg",
+      "850 mg",
+      "1000 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Diabète de type 2"
+  },
+  {
+    "marque": "Amarel",
+    "dci": "Glimépiride",
+    "dosages": [
+      "2 mg",
+      "4 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Diabète de type 2"
+  },
+  {
+    "marque": "Tahor",
+    "dci": "Atorvastatine",
+    "dosages": [
+      "10 mg",
+      "20 mg",
+      "40 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Cholestérol élevé"
+  },
+  {
+    "marque": "Crestor",
+    "dci": "Rosuvastatine",
+    "dosages": [
+      "10 mg",
+      "20 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Cholestérol élevé"
+  },
+  {
+    "marque": "Amlor",
+    "dci": "Amlodipine",
+    "dosages": [
+      "5 mg",
+      "10 mg"
+    ],
+    "forme": "gélule",
+    "indication": "Hypertension artérielle"
+  },
+  {
+    "marque": "Coversyl",
+    "dci": "Périndopril",
+    "dosages": [
+      "5 mg",
+      "10 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Hypertension artérielle et insuffisance cardiaque"
+  },
+  {
+    "marque": "Tenormine",
+    "dci": "Aténolol",
+    "dosages": [
+      "50 mg",
+      "100 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Hypertension, angine de poitrine et troubles du rythme cardiaque"
+  },
+  {
+    "marque": "Lasilix",
+    "dci": "Furosémide",
+    "dosages": [
+      "40 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Rétention d'eau (œdèmes) et hypertension"
+  },
+  {
+    "marque": "Kardégic",
+    "dci": "Acide acétylsalicylique",
+    "dosages": [
+      "75 mg",
+      "160 mg"
+    ],
+    "forme": "sachet",
+    "indication": "Prévention des accidents cardiovasculaires (fluidifie le sang)"
+  },
+  {
+    "marque": "Levothyrox",
+    "dci": "Lévothyroxine",
+    "dosages": [
+      "50 µg",
+      "75 µg",
+      "100 µg"
+    ],
+    "forme": "comprimé",
+    "indication": "Insuffisance thyroïdienne"
+  },
+  {
+    "marque": "Xanax",
+    "dci": "Alprazolam",
+    "dosages": [
+      "0,25 mg",
+      "0,5 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Anxiété (traitement de courte durée)"
+  },
+  {
+    "marque": "Tranxène",
+    "dci": "Clorazépate",
+    "dosages": [
+      "10 mg"
+    ],
+    "forme": "gélule",
+    "indication": "Anxiété (traitement de courte durée)"
+  },
+  {
+    "marque": "Deroxat",
+    "dci": "Paroxétine",
+    "dosages": [
+      "20 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Dépression et troubles anxieux"
+  },
+  {
+    "marque": "Zolpidem Mylan",
+    "dci": "Zolpidem",
+    "dosages": [
+      "10 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Insomnie sévère (courte durée)"
+  },
+  {
+    "marque": "Cataflam",
+    "dci": "Diclofénac potassique",
+    "dosages": [
+      "50 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Douleurs et inflammations"
+  },
+  {
+    "marque": "Tramadol Biogaran",
+    "dci": "Tramadol",
+    "dosages": [
+      "50 mg"
+    ],
+    "forme": "gélule",
+    "indication": "Douleurs modérées à intenses"
+  },
+  {
+    "marque": "Myolastan",
+    "dci": "Tétrazépam",
+    "dosages": [
+      "50 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Contractures musculaires douloureuses"
+  },
+  {
+    "marque": "Mag 2",
+    "dci": "Magnésium",
+    "dosages": [
+      "122 mg"
+    ],
+    "forme": "ampoule",
+    "indication": "Carence en magnésium"
+  },
+  {
+    "marque": "Uvédose",
+    "dci": "Vitamine D3",
+    "dosages": [
+      "100 000 UI"
+    ],
+    "forme": "ampoule",
+    "indication": "Carence en vitamine D"
+  },
+  {
+    "marque": "Tardyferon",
+    "dci": "Sulfate ferreux",
+    "dosages": [
+      "80 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Carence en fer (anémie)"
+  },
+  {
+    "marque": "Daflon",
+    "dci": "Diosmine/Hespéridine",
+    "dosages": [
+      "500 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Insuffisance veineuse et hémorroïdes"
+  },
+  {
+    "marque": "Fucidine",
+    "dci": "Acide fusidique",
+    "dosages": [
+      "2 %"
+    ],
+    "forme": "crème",
+    "indication": "Infections bactériennes de la peau"
+  },
+  {
+    "marque": "Bétadine",
+    "dci": "Povidone iodée",
+    "dosages": [
+      "10 %"
+    ],
+    "forme": "solution",
+    "indication": "Antiseptique : désinfection de la peau et des plaies"
+  },
+  {
+    "marque": "Dacryoserum",
+    "dci": "Chlorure de sodium",
+    "dosages": [
+      "0,9 %"
+    ],
+    "forme": "unidose",
+    "indication": "Nettoyage et lavage des yeux"
+  },
+  {
+    "marque": "Maxidrol",
+    "dci": "Dexaméthasone/Néomycine",
+    "dosages": [
+      "0,1 %"
+    ],
+    "forme": "collyre",
+    "indication": "Inflammation de l'œil avec infection (collyre)"
+  },
+  {
+    "marque": "Mycostatine",
+    "dci": "Nystatine",
+    "dosages": [
+      "100 000 UI/ml"
+    ],
+    "forme": "suspension",
+    "indication": "Mycoses de la bouche et du tube digestif"
+  },
+  {
+    "marque": "Fluconazole Arrow",
+    "dci": "Fluconazole",
+    "dosages": [
+      "150 mg"
+    ],
+    "forme": "gélule",
+    "indication": "Infections fongiques (candidose)"
+  },
+  {
+    "marque": "Zovirax",
+    "dci": "Aciclovir",
+    "dosages": [
+      "200 mg",
+      "400 mg"
+    ],
+    "forme": "comprimé",
+    "indication": "Herpès et zona"
+  },
+  {
+    "marque": "Tamiflu",
+    "dci": "Oseltamivir",
+    "dosages": [
+      "75 mg"
+    ],
+    "forme": "gélule",
+    "indication": "Grippe (traitement antiviral)"
+  }
+]

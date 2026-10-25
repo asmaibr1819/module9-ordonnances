@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Zovirax",
+      "dci": "Aciclovir",
+      "dosage": "400 mg",
+      "indication": "Herpès et zona",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Deroxat",
+      "dci": "Paroxétine",
+      "dosage": "20 mg",
+      "indication": "Dépression et troubles anxieux",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Mucolator",
+      "dci": "Carbocistéine",
+      "dosage": "750 mg",
+      "indication": "Toux grasse et encombrement des bronches",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Nour Ben Ammar\nDermatologie - Ariana\nPatient : Lina Chaabane  Âge : 31 ans\nLe 18/04/2026\nORDONNANCE\n1) Zovirax 400 mg\n2 comprimés 3 fois par jour - 3 jours\n2) Deroxat 20 mg\n1 comprimé 3 fois par jour - 3 jours\n3) Mucolator 750 mg\n1 cuillère à soupe 3 fois par jour - 14 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

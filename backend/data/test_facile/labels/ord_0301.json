@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Oroken",
+      "dci": "Céfixime",
+      "dosage": "400 mg",
+      "indication": "Infections bactériennes ORL et respiratoires (antibiotique)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Inexium",
+      "dci": "Ésoméprazole",
+      "dosage": "40 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Flagyl",
+      "dci": "Métronidazole",
+      "dosage": "250 mg",
+      "indication": "Infections bactériennes et parasitaires",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Bétadine",
+      "dci": "Povidone iodée",
+      "dosage": "10 %",
+      "indication": "Antiseptique : désinfection de la peau et des plaies",
+      "posologie": "1 application matin et soir",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Mag 2",
+      "dci": "Magnésium",
+      "dosage": "122 mg",
+      "indication": "Carence en magnésium",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Yasmine Ben Ammar\nMédecine générale - Nabeul\nPatient : Sami Ben Salah  Âge : 75 ans\nLe 01/05/2026\nORDONNANCE\n1) Oroken 400 mg\n2 cp x 3/jour - 3 mois\n2) Inexium 40 mg\n1 cp x 2/jour - 7 jours\n3) Flagyl 250 mg\n1 cp x 2/jour - 3 jours\n4) Bétadine 10 %\n1 appl. matin et soir - 10 jours\n5) Mag 2 122 mg\n1 cp le matin - 3 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

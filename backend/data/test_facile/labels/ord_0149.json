@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Mycostatine",
+      "dci": "Nystatine",
+      "dosage": "100 000 UI/ml",
+      "indication": "Mycoses de la bouche et du tube digestif",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Mag 2",
+      "dci": "Magnésium",
+      "dosage": "122 mg",
+      "indication": "Carence en magnésium",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Bétadine",
+      "dci": "Povidone iodée",
+      "dosage": "10 %",
+      "indication": "Antiseptique : désinfection de la peau et des plaies",
+      "posologie": "1 application matin et soir",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Youssef Hamdi\nPédiatrie - La Manouba\nPatient : Nour Mansouri  Âge : 8 ans\nLe 18/08/2026\nORDONNANCE\n1) Mycostatine 100 000 UI/ml\n1 cuillère à soupe 3 fois par jour - 3 mois\n2) Mag 2 122 mg\n1 comprimé le matin - 14 jours\n3) Bétadine 10 %\n1 application matin et soir - 10 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

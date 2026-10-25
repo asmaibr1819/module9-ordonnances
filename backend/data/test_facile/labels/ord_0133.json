@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Zyrtec",
+      "dci": "Cétirizine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Zovirax",
+      "dci": "Aciclovir",
+      "dosage": "200 mg",
+      "indication": "Herpès et zona",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Myolastan",
+      "dci": "Tétrazépam",
+      "dosage": "50 mg",
+      "indication": "Contractures musculaires douloureuses",
+      "posologie": "1 comprimé le soir",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Levothyrox",
+      "dci": "Lévothyroxine",
+      "dosage": "75 µg",
+      "indication": "Insuffisance thyroïdienne",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Sassi\nPédiatrie - Sfax\nPatient : Aymen Bouzid  Âge : 58 ans\nLe 06/10/2026\nORDONNANCE\n1) Zyrtec 10 mg\n1 comprimé 2 fois par jour - 3 mois\n2) Zovirax 200 mg\n1 comprimé le matin - 10 jours\n3) Myolastan 50 mg\n1 comprimé le soir - 5 jours\n4) Levothyrox 75 µg\n2 comprimés 3 fois par jour - 3 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

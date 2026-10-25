@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Glucophage",
+      "dci": "Metformine",
+      "dosage": "850 mg",
+      "indication": "Diabète de type 2",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Glucophage\n850 mg\nMetformine\nBoîte de 16 comprimés\nLot 80063   EXP 07/2027",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

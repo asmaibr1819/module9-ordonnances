@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Oroken",
+      "dci": "Céfixime",
+      "dosage": "200 mg",
+      "indication": "Infections bactériennes ORL et respiratoires (antibiotique)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Inexium",
+      "dci": "Ésoméprazole",
+      "dosage": "40 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Tahor",
+      "dci": "Atorvastatine",
+      "dosage": "40 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Rim Mansouri\nDermatologie - Tunis\nPatient : Bilel Chaabane  Âge : 55 ans\nLe 22/07/2026\nORDONNANCE\n1) Oroken 200 mg\n1 comprimé 2 fois par jour - 5 jours\n2) Inexium 40 mg\n1 comprimé 2 fois par jour - 7 jours\n3) Tahor 40 mg\n1 comprimé le matin - 14 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

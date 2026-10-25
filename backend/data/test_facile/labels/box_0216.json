@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Levothyrox",
+      "dci": "Lévothyroxine",
+      "dosage": "75 µg",
+      "indication": "Insuffisance thyroïdienne",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Levothyrox\n75 µg\nLévothyroxine\nBoîte de 16 comprimés\nLot 95220   EXP 07/2027",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

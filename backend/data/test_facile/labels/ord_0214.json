@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Brufen",
+      "dci": "Ibuprofène",
+      "dosage": "400 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Bétadine",
+      "dci": "Povidone iodée",
+      "dosage": "10 %",
+      "indication": "Antiseptique : désinfection de la peau et des plaies",
+      "posologie": "1 application matin et soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Glucophage",
+      "dci": "Metformine",
+      "dosage": "850 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Yasmine Sassi\nDermatologie - Nabeul\nPatient : Salma Sassi  Âge : 82 ans\nLe 28/02/2026\nORDONNANCE\n1) Brufen 400 mg\n1 cp x 3/jour - 14 jours\n2) Bétadine 10 %\n1 appl. matin et soir - 3 jours\n3) Glucophage 850 mg\n1 cp le matin - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

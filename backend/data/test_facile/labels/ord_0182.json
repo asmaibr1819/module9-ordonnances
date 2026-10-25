@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Advil",
+      "dci": "Ibuprofène",
+      "dosage": "200 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé le soir",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Tenormine",
+      "dci": "Aténolol",
+      "dosage": "100 mg",
+      "indication": "Hypertension, angine de poitrine et troubles du rythme cardiaque",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Zyrtec",
+      "dci": "Cétirizine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Yasmine Hamdi\nDermatologie - Bizerte\nPatient : Youssef Mansouri  Âge : 22 ans\nLe 04/06/2026\nORDONNANCE\n1) Advil 200 mg\n1 cp le soir - 14 jours\n2) Tenormine 100 mg\n1 cp x 2/jour - 14 jours\n3) Zyrtec 10 mg\n1 cp x 2/jour - 14 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

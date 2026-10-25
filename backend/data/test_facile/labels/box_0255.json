@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Oroken",
+      "dci": "Céfixime",
+      "dosage": "200 mg",
+      "indication": "Infections bactériennes ORL et respiratoires (antibiotique)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Oroken\n200 mg\nCéfixime\nBoîte de 10 comprimés\nLot 29193   EXP 05/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

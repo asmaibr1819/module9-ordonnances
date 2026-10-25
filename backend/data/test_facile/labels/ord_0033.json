@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Deroxat",
+      "dci": "Paroxétine",
+      "dosage": "20 mg",
+      "indication": "Dépression et troubles anxieux",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Maxidrol",
+      "dci": "Dexaméthasone/Néomycine",
+      "dosage": "0,1 %",
+      "indication": "Inflammation de l'œil avec infection (collyre)",
+      "posologie": "1 application matin et soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Solupred",
+      "dci": "Prednisolone",
+      "dosage": "5 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Amlor",
+      "dci": "Amlodipine",
+      "dosage": "10 mg",
+      "indication": "Hypertension artérielle",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Hatem Haddad\nORL - Ben Arous\nPatient : Salma Chaabane  Âge : 33 ans\nLe 19/03/2026\nORDONNANCE\n1) Deroxat 20 mg\n1 cp matin et soir - 7 jours\n2) Maxidrol 0,1 %\n1 appl. matin et soir - 1 mois\n3) Solupred 5 mg\n1 cp matin et soir - 1 mois\n4) Amlor 10 mg\n1 cp x 2/jour - 3 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

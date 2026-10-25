@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Motilium",
+      "dci": "Dompéridone",
+      "dosage": "10 mg",
+      "indication": "Nausées, vomissements et ballonnements",
+      "posologie": "1 comprimé le soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Brufen",
+      "dci": "Ibuprofène",
+      "dosage": "400 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé le soir",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Dacryoserum",
+      "dci": "Chlorure de sodium",
+      "dosage": "0,9 %",
+      "indication": "Nettoyage et lavage des yeux",
+      "posologie": "1 application matin et soir",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Bilel Khelifi\nORL - Ariana\nPatient : Karim Trabelsi  Âge : 19 ans\nLe 05/09/2026\nORDONNANCE\n1) Motilium 10 mg\n1 comprimé le soir - 1 mois\n2) Brufen 400 mg\n1 comprimé le soir - 10 jours\n3) Dacryoserum 0,9 %\n1 application matin et soir - 10 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

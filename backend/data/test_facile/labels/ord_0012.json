@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Toplexil",
+      "dci": "Oxomémazine",
+      "dosage": "0,33 mg/ml",
+      "indication": "Toux sèche",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Ciprofloxacine Biogaran",
+      "dci": "Ciprofloxacine",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes, notamment urinaires (antibiotique)",
+      "posologie": "1 comprimé le matin",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Daflon",
+      "dci": "Diosmine/Hespéridine",
+      "dosage": "500 mg",
+      "indication": "Insuffisance veineuse et hémorroïdes",
+      "posologie": "1 comprimé le soir",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Youssef Trabelsi\nORL - Ariana\nPatient : Yasmine Hamdi  Âge : 16 ans\nLe 09/11/2026\nORDONNANCE\n1) Toplexil 0,33 mg/ml\n1 cuillère à soupe 3 fois par jour - 3 mois\n2) Ciprofloxacine Biogaran 500 mg\n1 comprimé le matin - 7 jours\n3) Daflon 500 mg\n1 comprimé le soir - 1 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

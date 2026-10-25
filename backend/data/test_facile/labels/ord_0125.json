@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Voltarène",
+      "dci": "Diclofénac",
+      "dosage": "50 mg",
+      "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Fucidine",
+      "dci": "Acide fusidique",
+      "dosage": "2 %",
+      "indication": "Infections bactériennes de la peau",
+      "posologie": "1 application matin et soir",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Deroxat",
+      "dci": "Paroxétine",
+      "dosage": "20 mg",
+      "indication": "Dépression et troubles anxieux",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Gaviscon",
+      "dci": "Alginate de sodium",
+      "dosage": "500 mg",
+      "indication": "Brûlures d'estomac et remontées acides",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Haddad\nORL - Nabeul\nPatient : Salma Bouzid  Âge : 33 ans\nLe 13/08/2026\nORDONNANCE\n1) Voltarène 50 mg\n1 cp x 2/jour - 3 mois\n2) Fucidine 2 %\n1 appl. matin et soir - 14 jours\n3) Deroxat 20 mg\n2 cp x 3/jour - 1 mois\n4) Gaviscon 500 mg\n1 sach x 2/jour - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

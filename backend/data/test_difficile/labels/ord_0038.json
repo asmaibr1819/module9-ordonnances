@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Amarel",
+      "dci": "Glimépiride",
+      "dosage": "2 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Lina Ben Ammar\nPédiatrie - Tunis\nPatient : Hatem Trabelsi  Âge : 61 ans\nLe 03/12/2026\nORDONNANCE\n1) Amarel 2 mg\n1 cp le soir - 3 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

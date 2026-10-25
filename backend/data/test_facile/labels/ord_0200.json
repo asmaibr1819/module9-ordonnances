@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Crestor",
+      "dci": "Rosuvastatine",
+      "dosage": "10 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Zyrtec",
+      "dci": "Cétirizine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Bilel Khelifi\nMédecine générale - Tunis\nPatient : Sami Hamdi  Âge : 50 ans\nLe 18/10/2026\nORDONNANCE\n1) Crestor 10 mg\n1 cp le matin - 10 jours\n2) Zyrtec 10 mg\n1 cp matin et soir - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

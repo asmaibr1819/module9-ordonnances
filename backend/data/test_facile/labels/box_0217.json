@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Tahor",
+      "dci": "Atorvastatine",
+      "dosage": "40 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Tahor\n40 mg\nAtorvastatine\nBoîte de 16 comprimés\nLot 79747   EXP 08/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

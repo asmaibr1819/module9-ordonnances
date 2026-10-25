@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Smecta",
+      "dci": "Diosmectite",
+      "dosage": "3 g",
+      "indication": "Diarrhée",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Yasmine Sassi\nPédiatrie - Sousse\nPatient : Youssef Trabelsi  Âge : 52 ans\nLe 08/01/2026\nORDONNANCE\n1) Smecta 3 g\n1 sach x 2/jour - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

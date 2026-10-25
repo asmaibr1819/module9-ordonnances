@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Efferalgan",
+      "dci": "Paracétamol",
+      "dosage": "1000 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Bétadine",
+      "dci": "Povidone iodée",
+      "dosage": "10 %",
+      "indication": "Antiseptique : désinfection de la peau et des plaies",
+      "posologie": "1 application matin et soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Deroxat",
+      "dci": "Paroxétine",
+      "dosage": "20 mg",
+      "indication": "Dépression et troubles anxieux",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Myolastan",
+      "dci": "Tétrazépam",
+      "dosage": "50 mg",
+      "indication": "Contractures musculaires douloureuses",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Ben Ammar\nORL - Sousse\nPatient : Rim Trabelsi  Âge : 39 ans\nLe 10/02/2026\nORDONNANCE\n1) Efferalgan 1000 mg\n1 comprimé 2 fois par jour - 7 jours\n2) Bétadine 10 %\n1 application matin et soir - 1 mois\n3) Deroxat 20 mg\n1 comprimé matin et soir - 14 jours\n4) Myolastan 50 mg\n1 comprimé 3 fois par jour - 5 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

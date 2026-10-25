@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Gaviscon",
+      "dci": "Alginate de sodium",
+      "dosage": "500 mg",
+      "indication": "Brûlures d'estomac et remontées acides",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Bilel Gharbi\nCardiologie - Ariana\nPatient : Amira Khelifi  Âge : 63 ans\nLe 16/09/2026\nORDONNANCE\n1) Gaviscon 500 mg\n1 cp x 2/jour - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Fucidine",
+      "dci": "Acide fusidique",
+      "dosage": "2 %",
+      "indication": "Infections bactériennes de la peau",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Fucidine\n2 %\nAcide fusidique\nBoîte de 8 crèmes\nLot 20201   EXP 08/2028",
+  "_meta": {
+    "forme": "crème"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Maxidrol",
+      "dci": "Dexaméthasone/Néomycine",
+      "dosage": "0,1 %",
+      "indication": "Inflammation de l'œil avec infection (collyre)",
+      "posologie": "1 application matin et soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Fucidine",
+      "dci": "Acide fusidique",
+      "dosage": "2 %",
+      "indication": "Infections bactériennes de la peau",
+      "posologie": "1 application matin et soir",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Hamdi\nORL - La Manouba\nPatient : Lina Haddad  Âge : 11 ans\nLe 09/04/2026\nORDONNANCE\n1) Maxidrol 0,1 %\n1 appl. matin et soir - 3 mois\n2) Fucidine 2 %\n1 appl. matin et soir - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

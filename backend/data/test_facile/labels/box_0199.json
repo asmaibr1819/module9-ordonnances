@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Tenormine",
+      "dci": "Aténolol",
+      "dosage": "50 mg",
+      "indication": "Hypertension, angine de poitrine et troubles du rythme cardiaque",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Tenormine\n50 mg\nAténolol\nBoîte de 10 comprimés\nLot 69712   EXP 07/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

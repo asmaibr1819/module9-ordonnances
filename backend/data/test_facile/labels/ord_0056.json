@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Daflon",
+      "dci": "Diosmine/Hespéridine",
+      "dosage": "500 mg",
+      "indication": "Insuffisance veineuse et hémorroïdes",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Oroken",
+      "dci": "Céfixime",
+      "dosage": "400 mg",
+      "indication": "Infections bactériennes ORL et respiratoires (antibiotique)",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Mycostatine",
+      "dci": "Nystatine",
+      "dosage": "100 000 UI/ml",
+      "indication": "Mycoses de la bouche et du tube digestif",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Sassi\nMédecine générale - Nabeul\nPatient : Salma Ben Salah  Âge : 10 ans\nLe 01/10/2026\nORDONNANCE\n1) Daflon 500 mg\n1 cp le matin - 14 jours\n2) Oroken 400 mg\n1 cp le matin - 1 mois\n3) Mycostatine 100 000 UI/ml\n1 c.à.s x 3/j - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Panadol",
+      "dci": "Paracétamol",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Panadol\n500 mg\nParacétamol\nBoîte de 10 comprimés\nLot 38809   EXP 02/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

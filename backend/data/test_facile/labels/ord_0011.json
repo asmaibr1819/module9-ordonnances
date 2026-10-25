@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Fervex",
+      "dci": "Paracétamol/Phéniramine/Vitamine C",
+      "dosage": "500 mg",
+      "indication": "Symptômes du rhume et de la grippe",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Lina Gharbi\nDermatologie - Ben Arous\nPatient : Hatem Gharbi  Âge : 38 ans\nLe 21/07/2026\nORDONNANCE\n1) Fervex 500 mg\n1 sach x 2/jour - 14 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

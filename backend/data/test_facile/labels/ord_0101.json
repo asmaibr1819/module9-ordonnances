@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Gaviscon",
+      "dci": "Alginate de sodium",
+      "dosage": "500 mg",
+      "indication": "Brûlures d'estomac et remontées acides",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Efferalgan",
+      "dci": "Paracétamol",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Yasmine Khelifi\nORL - Nabeul\nPatient : Sami Haddad  Âge : 11 ans\nLe 15/03/2026\nORDONNANCE\n1) Gaviscon 500 mg\n1 sach x 2/jour - 5 jours\n2) Efferalgan 500 mg\n1 cp le matin - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

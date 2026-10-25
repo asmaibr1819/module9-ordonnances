@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Daflon",
+      "dci": "Diosmine/Hespéridine",
+      "dosage": "500 mg",
+      "indication": "Insuffisance veineuse et hémorroïdes",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Lina Sassi\nPédiatrie - Sfax\nPatient : Ines Hamdi  Âge : 52 ans\nLe 27/02/2026\nORDONNANCE\n1) Daflon 500 mg\n2 comprimés 3 fois par jour - 1 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

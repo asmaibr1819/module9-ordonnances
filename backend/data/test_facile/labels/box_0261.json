@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Bactrim",
+      "dci": "Sulfaméthoxazole/Triméthoprime",
+      "dosage": "400 mg/80 mg",
+      "indication": "Infections bactériennes, notamment urinaires (antibiotique)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Bactrim\n400 mg/80 mg\nSulfaméthoxazole/Triméthoprime\nBoîte de 12 comprimés\nLot 14789   EXP 04/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

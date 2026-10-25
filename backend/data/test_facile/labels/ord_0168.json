@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Solupred",
+      "dci": "Prednisolone",
+      "dosage": "5 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Imodium",
+      "dci": "Lopéramide",
+      "dosage": "2 mg",
+      "indication": "Diarrhée aiguë",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Xanax",
+      "dci": "Alprazolam",
+      "dosage": "0,25 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Gaviscon",
+      "dci": "Alginate de sodium",
+      "dosage": "500 mg",
+      "indication": "Brûlures d'estomac et remontées acides",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Nurofen",
+      "dci": "Ibuprofène",
+      "dosage": "200 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Youssef Haddad\nMédecine générale - Bizerte\nPatient : Youssef Ben Ammar  Âge : 42 ans\nLe 09/06/2026\nORDONNANCE\n1) Solupred 5 mg\n1 comprimé 3 fois par jour - 14 jours\n2) Imodium 2 mg\n1 comprimé 2 fois par jour - 3 mois\n3) Xanax 0,25 mg\n1 comprimé matin et soir - 10 jours\n4) Gaviscon 500 mg\n1 comprimé 2 fois par jour - 7 jours\n5) Nurofen 200 mg\n1 comprimé matin et soir - 3 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

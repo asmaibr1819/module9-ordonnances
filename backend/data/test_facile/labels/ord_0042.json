@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Bactrim",
+      "dci": "Sulfaméthoxazole/Triméthoprime",
+      "dosage": "400 mg/80 mg",
+      "indication": "Infections bactériennes, notamment urinaires (antibiotique)",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Ventoline",
+      "dci": "Salbutamol",
+      "dosage": "100 µg",
+      "indication": "Crises d'asthme (dilate les bronches)",
+      "posologie": "2 bouffées en cas de crise",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Mycostatine",
+      "dci": "Nystatine",
+      "dosage": "100 000 UI/ml",
+      "indication": "Mycoses de la bouche et du tube digestif",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Youssef Ben Ammar\nPédiatrie - La Manouba\nPatient : Mehdi Bouzid  Âge : 79 ans\nLe 10/10/2026\nORDONNANCE\n1) Bactrim 400 mg/80 mg\n1 comprimé le matin - 3 mois\n2) Ventoline 100 µg\n2 bouffées en cas de crise - 1 mois\n3) Mycostatine 100 000 UI/ml\n1 cuillère à soupe 3 fois par jour - 3 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

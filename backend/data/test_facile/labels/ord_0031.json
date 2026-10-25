@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Mopral",
+      "dci": "Oméprazole",
+      "dosage": "10 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "1 gélule par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Aymen Haddad\nORL - Ben Arous\nPatient : Amira Trabelsi  Âge : 4 ans\nLe 05/10/2026\nORDONNANCE\n1) Mopral 10 mg\n1 gél/jour - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

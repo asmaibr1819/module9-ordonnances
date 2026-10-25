@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Doliprane",
+      "dci": "Paracétamol",
+      "dosage": "1000 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Toplexil",
+      "dci": "Oxomémazine",
+      "dosage": "0,33 mg/ml",
+      "indication": "Toux sèche",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Uvédose",
+      "dci": "Vitamine D3",
+      "dosage": "100 000 UI",
+      "indication": "Carence en vitamine D",
+      "posologie": "1 comprimé le matin",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Amarel",
+      "dci": "Glimépiride",
+      "dosage": "2 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Glucophage",
+      "dci": "Metformine",
+      "dosage": "1000 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Lina Jlassi\nCardiologie - La Manouba\nPatient : Walid Jlassi  Âge : 18 ans\nLe 07/06/2026\nORDONNANCE\n1) Doliprane 1000 mg\n1 comprimé le matin - 3 jours\n2) Toplexil 0,33 mg/ml\n1 cuillère à soupe 3 fois par jour - 3 mois\n3) Uvédose 100 000 UI\n1 comprimé le matin - 7 jours\n4) Amarel 2 mg\n1 comprimé matin et soir - 7 jours\n5) Glucophage 1000 mg\n2 comprimés 3 fois par jour - 5 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

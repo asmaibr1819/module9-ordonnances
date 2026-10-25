@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Advil",
+      "dci": "Ibuprofène",
+      "dosage": "200 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Advil\n200 mg\nIbuprofène\nBoîte de 10 comprimés\nLot 92667   EXP 04/2027",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Doliprane",
+      "dci": "Paracétamol",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Doliprane\n500 mg\nParacétamol\nBoîte de 10 comprimés\nLot 10167   EXP 12/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

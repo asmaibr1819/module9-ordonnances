@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Amlor",
+      "dci": "Amlodipine",
+      "dosage": "10 mg",
+      "indication": "Hypertension artérielle",
+      "posologie": "1 gélule par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Dacryoserum",
+      "dci": "Chlorure de sodium",
+      "dosage": "0,9 %",
+      "indication": "Nettoyage et lavage des yeux",
+      "posologie": "1 application matin et soir",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Nurofen",
+      "dci": "Ibuprofène",
+      "dosage": "400 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Fervex",
+      "dci": "Paracétamol/Phéniramine/Vitamine C",
+      "dosage": "500 mg",
+      "indication": "Symptômes du rhume et de la grippe",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Hatem Jlassi\nPédiatrie - Ben Arous\nPatient : Yasmine Haddad  Âge : 4 ans\nLe 21/01/2026\nORDONNANCE\n1) Amlor 10 mg\n1 gélule par jour - 1 mois\n2) Dacryoserum 0,9 %\n1 application matin et soir - 7 jours\n3) Nurofen 400 mg\n1 comprimé le soir - 3 mois\n4) Fervex 500 mg\n1 comprimé 2 fois par jour - 1 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

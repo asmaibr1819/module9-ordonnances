@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Zovirax",
+      "dci": "Aciclovir",
+      "dosage": "400 mg",
+      "indication": "Herpès et zona",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Dacryoserum",
+      "dci": "Chlorure de sodium",
+      "dosage": "0,9 %",
+      "indication": "Nettoyage et lavage des yeux",
+      "posologie": "1 application matin et soir",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Clarityne",
+      "dci": "Loratadine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Mycostatine",
+      "dci": "Nystatine",
+      "dosage": "100 000 UI/ml",
+      "indication": "Mycoses de la bouche et du tube digestif",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "3 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Youssef Sassi\nCardiologie - Ariana\nPatient : Karim Mansouri  Âge : 6 ans\nLe 10/10/2026\nORDONNANCE\n1) Zovirax 400 mg\n1 comprimé 2 fois par jour - 7 jours\n2) Dacryoserum 0,9 %\n1 application matin et soir - 10 jours\n3) Clarityne 10 mg\n1 comprimé matin et soir - 3 jours\n4) Mycostatine 100 000 UI/ml\n1 cuillère à soupe 3 fois par jour - 3 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

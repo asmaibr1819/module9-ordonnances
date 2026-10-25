@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Augmentin",
+      "dci": "Amoxicilline/Acide clavulanique",
+      "dosage": "1 g/125 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Fervex",
+      "dci": "Paracétamol/Phéniramine/Vitamine C",
+      "dosage": "500 mg",
+      "indication": "Symptômes du rhume et de la grippe",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Nour Mansouri\nPédiatrie - Sousse\nPatient : Aymen Ben Ammar  Âge : 35 ans\nLe 07/06/2026\nORDONNANCE\n1) Augmentin 1 g/125 mg\n1 comprimé le matin - 3 mois\n2) Fervex 500 mg\n1 comprimé 2 fois par jour - 14 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

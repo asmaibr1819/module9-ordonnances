@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Aerius",
+      "dci": "Desloratadine",
+      "dosage": "5 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Aerius\n5 mg\nDesloratadine\nBoîte de 24 comprimés\nLot 15587   EXP 07/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

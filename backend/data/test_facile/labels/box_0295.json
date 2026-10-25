@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Fluconazole Arrow",
+      "dci": "Fluconazole",
+      "dosage": "150 mg",
+      "indication": "Infections fongiques (candidose)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Fluconazole Arrow\n150 mg\nFluconazole\nBoîte de 8 gélules\nLot 70113   EXP 10/2027",
+  "_meta": {
+    "forme": "gélule"
+  }
+}

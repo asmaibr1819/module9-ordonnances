@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Dacryoserum",
+      "dci": "Chlorure de sodium",
+      "dosage": "0,9 %",
+      "indication": "Nettoyage et lavage des yeux",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dacryoserum\n0,9 %\nChlorure de sodium\nBoîte de 20 unidoses\nLot 27263   EXP 01/2027",
+  "_meta": {
+    "forme": "unidose"
+  }
+}

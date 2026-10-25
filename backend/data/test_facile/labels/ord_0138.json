@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Mycostatine",
+      "dci": "Nystatine",
+      "dosage": "100 000 UI/ml",
+      "indication": "Mycoses de la bouche et du tube digestif",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Solupred",
+      "dci": "Prednisolone",
+      "dosage": "5 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé le soir",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Daflon",
+      "dci": "Diosmine/Hespéridine",
+      "dosage": "500 mg",
+      "indication": "Insuffisance veineuse et hémorroïdes",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Nour Jlassi\nMédecine générale - Ariana\nPatient : Karim Hamdi  Âge : 21 ans\nLe 03/06/2026\nORDONNANCE\n1) Mycostatine 100 000 UI/ml\n1 cuillère à soupe 3 fois par jour - 3 mois\n2) Solupred 5 mg\n1 comprimé le soir - 5 jours\n3) Daflon 500 mg\n1 comprimé 2 fois par jour - 5 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

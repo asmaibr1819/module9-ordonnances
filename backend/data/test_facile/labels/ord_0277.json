@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Oroken",
+      "dci": "Céfixime",
+      "dosage": "200 mg",
+      "indication": "Infections bactériennes ORL et respiratoires (antibiotique)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Tramadol Biogaran",
+      "dci": "Tramadol",
+      "dosage": "50 mg",
+      "indication": "Douleurs modérées à intenses",
+      "posologie": "1 gélule par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Fervex",
+      "dci": "Paracétamol/Phéniramine/Vitamine C",
+      "dosage": "500 mg",
+      "indication": "Symptômes du rhume et de la grippe",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Augmentin",
+      "dci": "Amoxicilline/Acide clavulanique",
+      "dosage": "500 mg/62,5 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Clarityne",
+      "dci": "Loratadine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Salma Trabelsi\nDermatologie - Tunis\nPatient : Sami Gharbi  Âge : 47 ans\nLe 27/08/2026\nORDONNANCE\n1) Oroken 200 mg\n2 cp x 3/jour - 3 mois\n2) Tramadol Biogaran 50 mg\n1 gél/jour - 14 jours\n3) Fervex 500 mg\n1 cp x 2/jour - 7 jours\n4) Augmentin 500 mg/62,5 mg\n1 cp matin et soir - 14 jours\n5) Clarityne 10 mg\n2 cp x 3/jour - 14 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

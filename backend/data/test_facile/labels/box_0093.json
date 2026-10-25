@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Aspégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "1000 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Aspégic\n1000 mg\nAcide acétylsalicylique\nBoîte de 16 sachets\nLot 41740   EXP 01/2029",
+  "_meta": {
+    "forme": "sachet"
+  }
+}

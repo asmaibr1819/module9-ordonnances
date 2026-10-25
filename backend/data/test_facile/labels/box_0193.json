@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Zithromax",
+      "dci": "Azithromycine",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Zithromax\n500 mg\nAzithromycine\nBoîte de 10 comprimés\nLot 94044   EXP 09/2029",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

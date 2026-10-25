@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Deroxat",
+      "dci": "Paroxétine",
+      "dosage": "20 mg",
+      "indication": "Dépression et troubles anxieux",
+      "posologie": "1 comprimé le matin",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Tahor",
+      "dci": "Atorvastatine",
+      "dosage": "20 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Maxidrol",
+      "dci": "Dexaméthasone/Néomycine",
+      "dosage": "0,1 %",
+      "indication": "Inflammation de l'œil avec infection (collyre)",
+      "posologie": "1 application matin et soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Inexium",
+      "dci": "Ésoméprazole",
+      "dosage": "40 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "1 comprimé le matin",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Celestène",
+      "dci": "Bétaméthasone",
+      "dosage": "0,5 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Aymen Ben Salah\nMédecine interne - Sfax\nPatient : Lina Ben Salah  Âge : 10 ans\nLe 01/07/2026\nORDONNANCE\n1) Deroxat 20 mg\n1 comprimé le matin - 7 jours\n2) Tahor 20 mg\n1 comprimé matin et soir - 5 jours\n3) Maxidrol 0,1 %\n1 application matin et soir - 3 mois\n4) Inexium 40 mg\n1 comprimé le matin - 7 jours\n5) Celestène 0,5 mg\n1 comprimé 2 fois par jour - 5 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

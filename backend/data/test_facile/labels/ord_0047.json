@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Spasfon",
+      "dci": "Phloroglucinol",
+      "dosage": "80 mg",
+      "indication": "Douleurs spasmodiques (ventre, règles)",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Smecta",
+      "dci": "Diosmectite",
+      "dosage": "3 g",
+      "indication": "Diarrhée",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Clamoxyl",
+      "dci": "Amoxicilline",
+      "dosage": "1 g",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 gélule par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Trabelsi\nORL - Ariana\nPatient : Yasmine Mansouri  Âge : 9 ans\nLe 12/05/2026\nORDONNANCE\n1) Spasfon 80 mg\n1 cp le matin - 3 mois\n2) Smecta 3 g\n1 sach x 2/jour - 5 jours\n3) Clamoxyl 1 g\n1 gél/jour - 3 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

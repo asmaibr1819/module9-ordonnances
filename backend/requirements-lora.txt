@@ -1,0 +1,6 @@
+# Uniquement pour le moteur "lora" (machine avec GPU de préférence)
+torch
+transformers>=4.45
+peft>=0.12
+accelerate
+bitsandbytes   # GPU NVIDIA seulement

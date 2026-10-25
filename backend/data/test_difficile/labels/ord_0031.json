@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Tardyferon",
+      "dci": "Sulfate ferreux",
+      "dosage": "80 mg",
+      "indication": "Carence en fer (anémie)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Bétadine",
+      "dci": "Povidone iodée",
+      "dosage": "10 %",
+      "indication": "Antiseptique : désinfection de la peau et des plaies",
+      "posologie": "1 application matin et soir",
+      "duree": "3 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Sami Mansouri\nORL - Sfax\nPatient : Ines Ben Salah  Âge : 39 ans\nLe 02/08/2026\nORDONNANCE\n1) Tardyferon 80 mg\n1 cp matin et soir - 3 jours\n2) Bétadine 10 %\n1 appl. matin et soir - 3 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Inexium",
+      "dci": "Ésoméprazole",
+      "dosage": "40 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Toplexil",
+      "dci": "Oxomémazine",
+      "dosage": "0,33 mg/ml",
+      "indication": "Toux sèche",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Tramadol Biogaran",
+      "dci": "Tramadol",
+      "dosage": "50 mg",
+      "indication": "Douleurs modérées à intenses",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Aerius",
+      "dci": "Desloratadine",
+      "dosage": "5 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Karim Khelifi\nCardiologie - Tunis\nPatient : Sami Ben Salah  Âge : 9 ans\nLe 10/01/2026\nORDONNANCE\n1) Inexium 40 mg\n1 comprimé le matin - 14 jours\n2) Toplexil 0,33 mg/ml\n1 cuillère à soupe 3 fois par jour - 7 jours\n3) Tramadol Biogaran 50 mg\n1 comprimé 2 fois par jour - 5 jours\n4) Aerius 5 mg\n1 comprimé 3 fois par jour - 7 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

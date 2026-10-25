@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Clamoxyl",
+      "dci": "Amoxicilline",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Cataflam",
+      "dci": "Diclofénac potassique",
+      "dosage": "50 mg",
+      "indication": "Douleurs et inflammations",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Oroken",
+      "dci": "Céfixime",
+      "dosage": "400 mg",
+      "indication": "Infections bactériennes ORL et respiratoires (antibiotique)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Nurofen",
+      "dci": "Ibuprofène",
+      "dosage": "200 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Bouzid\nDermatologie - Ben Arous\nPatient : Salma Chaabane  Âge : 37 ans\nLe 18/04/2026\nORDONNANCE\n1) Clamoxyl 500 mg\n1 cp le matin - 1 mois\n2) Cataflam 50 mg\n1 cp x 3/jour - 3 jours\n3) Oroken 400 mg\n1 cp matin et soir - 7 jours\n4) Nurofen 200 mg\n1 cp le matin - 3 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

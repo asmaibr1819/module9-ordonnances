@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Celestène",
+      "dci": "Bétaméthasone",
+      "dosage": "0,5 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Mopral",
+      "dci": "Oméprazole",
+      "dosage": "20 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "1 comprimé le matin",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Zithromax",
+      "dci": "Azithromycine",
+      "dosage": "250 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé le matin",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Bactrim",
+      "dci": "Sulfaméthoxazole/Triméthoprime",
+      "dosage": "400 mg/80 mg",
+      "indication": "Infections bactériennes, notamment urinaires (antibiotique)",
+      "posologie": "1 comprimé le soir",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Nurofen",
+      "dci": "Ibuprofène",
+      "dosage": "200 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Walid Khelifi\nPédiatrie - Ben Arous\nPatient : Nour Chaabane  Âge : 10 ans\nLe 04/04/2026\nORDONNANCE\n1) Celestène 0,5 mg\n1 cp x 3/jour - 5 jours\n2) Mopral 20 mg\n1 cp le matin - 5 jours\n3) Zithromax 250 mg\n1 cp le matin - 5 jours\n4) Bactrim 400 mg/80 mg\n1 cp le soir - 14 jours\n5) Nurofen 200 mg\n1 cp x 2/jour - 5 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

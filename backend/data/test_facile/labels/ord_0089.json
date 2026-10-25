@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Fluconazole Arrow",
+      "dci": "Fluconazole",
+      "dosage": "150 mg",
+      "indication": "Infections fongiques (candidose)",
+      "posologie": "1 gélule par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Mag 2",
+      "dci": "Magnésium",
+      "dosage": "122 mg",
+      "indication": "Carence en magnésium",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Zovirax",
+      "dci": "Aciclovir",
+      "dosage": "200 mg",
+      "indication": "Herpès et zona",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Tardyferon",
+      "dci": "Sulfate ferreux",
+      "dosage": "80 mg",
+      "indication": "Carence en fer (anémie)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Karim Jlassi\nDermatologie - Ariana\nPatient : Sami Jlassi  Âge : 11 ans\nLe 09/04/2026\nORDONNANCE\n1) Fluconazole Arrow 150 mg\n1 gél/jour - 1 mois\n2) Mag 2 122 mg\n1 cp le matin - 3 mois\n3) Zovirax 200 mg\n1 cp x 2/jour - 7 jours\n4) Tardyferon 80 mg\n1 cp x 2/jour - 5 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

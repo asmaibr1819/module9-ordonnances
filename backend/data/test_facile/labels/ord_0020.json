@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Glucophage",
+      "dci": "Metformine",
+      "dosage": "1000 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Voltarène",
+      "dci": "Diclofénac",
+      "dosage": "50 mg",
+      "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Zovirax",
+      "dci": "Aciclovir",
+      "dosage": "400 mg",
+      "indication": "Herpès et zona",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "3 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Youssef Ben Salah\nPédiatrie - Tunis\nPatient : Yasmine Sassi  Âge : 34 ans\nLe 16/07/2026\nORDONNANCE\n1) Glucophage 1000 mg\n1 cp le soir - 3 jours\n2) Voltarène 50 mg\n1 cp x 2/jour - 1 mois\n3) Zovirax 400 mg\n1 cp x 3/jour - 3 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

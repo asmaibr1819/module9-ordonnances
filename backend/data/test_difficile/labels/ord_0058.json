@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Voltarène",
+      "dci": "Diclofénac",
+      "dosage": "75 mg",
+      "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Motilium",
+      "dci": "Dompéridone",
+      "dosage": "10 mg",
+      "indication": "Nausées, vomissements et ballonnements",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Karim Gharbi\nORL - Sfax\nPatient : Lina Trabelsi  Âge : 50 ans\nLe 06/07/2026\nORDONNANCE\n1) Voltarène 75 mg\n1 cp matin et soir - 3 mois\n2) Motilium 10 mg\n2 cp x 3/jour - 3 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Maxidrol",
+      "dci": "Dexaméthasone/Néomycine",
+      "dosage": "0,1 %",
+      "indication": "Inflammation de l'œil avec infection (collyre)",
+      "posologie": "1 application matin et soir",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Augmentin",
+      "dci": "Amoxicilline/Acide clavulanique",
+      "dosage": "500 mg/62,5 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Glucophage",
+      "dci": "Metformine",
+      "dosage": "1000 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Gaviscon",
+      "dci": "Alginate de sodium",
+      "dosage": "500 mg",
+      "indication": "Brûlures d'estomac et remontées acides",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Hatem Trabelsi\nPédiatrie - Ben Arous\nPatient : Karim Gharbi  Âge : 64 ans\nLe 01/04/2026\nORDONNANCE\n1) Maxidrol 0,1 %\n1 appl. matin et soir - 10 jours\n2) Augmentin 500 mg/62,5 mg\n1 cp x 2/jour - 7 jours\n3) Glucophage 1000 mg\n1 cp le matin - 10 jours\n4) Gaviscon 500 mg\n1 cp x 2/jour - 7 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

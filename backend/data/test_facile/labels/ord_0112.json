@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Flagyl",
+      "dci": "Métronidazole",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes et parasitaires",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Maxidrol",
+      "dci": "Dexaméthasone/Néomycine",
+      "dosage": "0,1 %",
+      "indication": "Inflammation de l'œil avec infection (collyre)",
+      "posologie": "1 application matin et soir",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Smecta",
+      "dci": "Diosmectite",
+      "dosage": "3 g",
+      "indication": "Diarrhée",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Bilel Chaabane\nDermatologie - Ariana\nPatient : Yasmine Bouzid  Âge : 52 ans\nLe 09/02/2026\nORDONNANCE\n1) Flagyl 500 mg\n1 cp x 3/jour - 1 mois\n2) Maxidrol 0,1 %\n1 appl. matin et soir - 7 jours\n3) Smecta 3 g\n1 sach x 2/jour - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

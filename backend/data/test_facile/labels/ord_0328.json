@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Fervex",
+      "dci": "Paracétamol/Phéniramine/Vitamine C",
+      "dosage": "500 mg",
+      "indication": "Symptômes du rhume et de la grippe",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Gaviscon",
+      "dci": "Alginate de sodium",
+      "dosage": "500 mg",
+      "indication": "Brûlures d'estomac et remontées acides",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Bouzid\nDermatologie - Sfax\nPatient : Bilel Haddad  Âge : 4 ans\nLe 03/12/2026\nORDONNANCE\n1) Fervex 500 mg\n1 sach x 2/jour - 3 mois\n2) Gaviscon 500 mg\n1 sach x 2/jour - 5 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

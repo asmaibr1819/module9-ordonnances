@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Cataflam",
+      "dci": "Diclofénac potassique",
+      "dosage": "50 mg",
+      "indication": "Douleurs et inflammations",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Cataflam\n50 mg\nDiclofénac potassique\nBoîte de 12 comprimés\nLot 43730   EXP 08/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Mopral",
+      "dci": "Oméprazole",
+      "dosage": "20 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Spasfon",
+      "dci": "Phloroglucinol",
+      "dosage": "80 mg",
+      "indication": "Douleurs spasmodiques (ventre, règles)",
+      "posologie": "1 comprimé le matin",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Dacryoserum",
+      "dci": "Chlorure de sodium",
+      "dosage": "0,9 %",
+      "indication": "Nettoyage et lavage des yeux",
+      "posologie": "1 application matin et soir",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Nour Mansouri\nDermatologie - Nabeul\nPatient : Aymen Sassi  Âge : 75 ans\nLe 07/11/2026\nORDONNANCE\n1) Mopral 20 mg\n1 cp le matin - 1 mois\n2) Spasfon 80 mg\n1 cp le matin - 7 jours\n3) Dacryoserum 0,9 %\n1 appl. matin et soir - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

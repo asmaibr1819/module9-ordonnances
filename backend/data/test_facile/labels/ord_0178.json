@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Fluconazole Arrow",
+      "dci": "Fluconazole",
+      "dosage": "150 mg",
+      "indication": "Infections fongiques (candidose)",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Zovirax",
+      "dci": "Aciclovir",
+      "dosage": "400 mg",
+      "indication": "Herpès et zona",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Sami Hamdi\nMédecine générale - Tunis\nPatient : Lina Hamdi  Âge : 79 ans\nLe 05/06/2026\nORDONNANCE\n1) Fluconazole Arrow 150 mg\n1 comprimé le matin - 1 mois\n2) Zovirax 400 mg\n1 comprimé 2 fois par jour - 10 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

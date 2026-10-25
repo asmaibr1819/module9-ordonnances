@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Inexium",
+      "dci": "Ésoméprazole",
+      "dosage": "20 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Augmentin",
+      "dci": "Amoxicilline/Acide clavulanique",
+      "dosage": "500 mg/62,5 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Nour Mansouri\nMédecine interne - Ben Arous\nPatient : Ines Hamdi  Âge : 46 ans\nLe 26/02/2026\nORDONNANCE\n1) Inexium 20 mg\n1 comprimé 2 fois par jour - 5 jours\n2) Augmentin 500 mg/62,5 mg\n1 comprimé le matin - 10 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

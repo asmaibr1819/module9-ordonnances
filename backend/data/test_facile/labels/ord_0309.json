@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Zovirax",
+      "dci": "Aciclovir",
+      "dosage": "200 mg",
+      "indication": "Herpès et zona",
+      "posologie": "1 comprimé le matin",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Levothyrox",
+      "dci": "Lévothyroxine",
+      "dosage": "100 µg",
+      "indication": "Insuffisance thyroïdienne",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Xanax",
+      "dci": "Alprazolam",
+      "dosage": "0,5 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Hamdi\nMédecine générale - Ariana\nPatient : Mehdi Ben Salah  Âge : 72 ans\nLe 04/01/2026\nORDONNANCE\n1) Zovirax 200 mg\n1 comprimé le matin - 7 jours\n2) Levothyrox 100 µg\n1 comprimé le soir - 3 jours\n3) Xanax 0,5 mg\n1 comprimé 3 fois par jour - 14 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

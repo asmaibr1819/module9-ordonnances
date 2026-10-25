@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Lasilix",
+      "dci": "Furosémide",
+      "dosage": "40 mg",
+      "indication": "Rétention d'eau (œdèmes) et hypertension",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Sami Sassi\nMédecine interne - Sousse\nPatient : Aymen Sassi  Âge : 4 ans\nLe 19/02/2026\nORDONNANCE\n1) Lasilix 40 mg\n1 comprimé le matin - 14 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

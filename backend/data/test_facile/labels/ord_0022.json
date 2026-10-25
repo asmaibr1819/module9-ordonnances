@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Voltarène",
+      "dci": "Diclofénac",
+      "dosage": "75 mg",
+      "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Fluconazole Arrow",
+      "dci": "Fluconazole",
+      "dosage": "150 mg",
+      "indication": "Infections fongiques (candidose)",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Aymen Chaabane\nMédecine générale - Tunis\nPatient : Lina Gharbi  Âge : 24 ans\nLe 13/07/2026\nORDONNANCE\n1) Voltarène 75 mg\n1 cp le soir - 3 mois\n2) Fluconazole Arrow 150 mg\n1 cp le matin - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

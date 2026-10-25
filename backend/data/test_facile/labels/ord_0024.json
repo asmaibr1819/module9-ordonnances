@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Smecta",
+      "dci": "Diosmectite",
+      "dosage": "3 g",
+      "indication": "Diarrhée",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Crestor",
+      "dci": "Rosuvastatine",
+      "dosage": "20 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Myolastan",
+      "dci": "Tétrazépam",
+      "dosage": "50 mg",
+      "indication": "Contractures musculaires douloureuses",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Deroxat",
+      "dci": "Paroxétine",
+      "dosage": "20 mg",
+      "indication": "Dépression et troubles anxieux",
+      "posologie": "1 comprimé le matin",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Amira Mansouri\nMédecine générale - La Manouba\nPatient : Sami Hamdi  Âge : 81 ans\nLe 16/01/2026\nORDONNANCE\n1) Smecta 3 g\n1 sach x 2/jour - 7 jours\n2) Crestor 20 mg\n1 cp x 2/jour - 3 jours\n3) Myolastan 50 mg\n1 cp x 2/jour - 7 jours\n4) Deroxat 20 mg\n1 cp le matin - 5 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

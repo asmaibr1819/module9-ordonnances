@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Ventoline",
+      "dci": "Salbutamol",
+      "dosage": "100 µg",
+      "indication": "Crises d'asthme (dilate les bronches)",
+      "posologie": "2 bouffées en cas de crise",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Glucophage",
+      "dci": "Metformine",
+      "dosage": "850 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Fervex",
+      "dci": "Paracétamol/Phéniramine/Vitamine C",
+      "dosage": "500 mg",
+      "indication": "Symptômes du rhume et de la grippe",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Dacryoserum",
+      "dci": "Chlorure de sodium",
+      "dosage": "0,9 %",
+      "indication": "Nettoyage et lavage des yeux",
+      "posologie": "1 application matin et soir",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Rim Ben Salah\nORL - La Manouba\nPatient : Aymen Haddad  Âge : 39 ans\nLe 11/11/2026\nORDONNANCE\n1) Ventoline 100 µg\n2 bouffées en cas de crise - 3 jours\n2) Glucophage 850 mg\n1 comprimé 2 fois par jour - 5 jours\n3) Fervex 500 mg\n1 comprimé 2 fois par jour - 7 jours\n4) Dacryoserum 0,9 %\n1 application matin et soir - 3 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Smecta",
+      "dci": "Diosmectite",
+      "dosage": "3 g",
+      "indication": "Diarrhée",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Smecta\n3 g\nDiosmectite\nBoîte de 8 sachets\nLot 54205   EXP 08/2028",
+  "_meta": {
+    "forme": "sachet"
+  }
+}

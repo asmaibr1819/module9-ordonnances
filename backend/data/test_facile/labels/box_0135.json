@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Clamoxyl",
+      "dci": "Amoxicilline",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Clamoxyl\n500 mg\nAmoxicilline\nBoîte de 8 gélules\nLot 57685   EXP 03/2027",
+  "_meta": {
+    "forme": "gélule"
+  }
+}

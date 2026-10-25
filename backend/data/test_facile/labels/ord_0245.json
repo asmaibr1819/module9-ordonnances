@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Motilium",
+      "dci": "Dompéridone",
+      "dosage": "10 mg",
+      "indication": "Nausées, vomissements et ballonnements",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Brufen",
+      "dci": "Ibuprofène",
+      "dosage": "600 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Nour Mansouri\nPédiatrie - Sfax\nPatient : Amira Trabelsi  Âge : 35 ans\nLe 22/10/2026\nORDONNANCE\n1) Motilium 10 mg\n1 cp matin et soir - 1 mois\n2) Brufen 600 mg\n1 cp le matin - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

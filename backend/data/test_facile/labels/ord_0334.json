@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Fucidine",
+      "dci": "Acide fusidique",
+      "dosage": "2 %",
+      "indication": "Infections bactériennes de la peau",
+      "posologie": "1 application matin et soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Efferalgan",
+      "dci": "Paracétamol",
+      "dosage": "1000 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Gaviscon",
+      "dci": "Alginate de sodium",
+      "dosage": "500 mg",
+      "indication": "Brûlures d'estomac et remontées acides",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Jlassi\nPédiatrie - Tunis\nPatient : Bilel Sassi  Âge : 72 ans\nLe 13/07/2026\nORDONNANCE\n1) Fucidine 2 %\n1 appl. matin et soir - 3 jours\n2) Efferalgan 1000 mg\n1 cp matin et soir - 3 jours\n3) Gaviscon 500 mg\n1 sach x 2/jour - 7 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

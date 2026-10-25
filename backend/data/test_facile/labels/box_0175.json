@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Zovirax",
+      "dci": "Aciclovir",
+      "dosage": "200 mg",
+      "indication": "Herpès et zona",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Zovirax\n200 mg\nAciclovir\nBoîte de 8 comprimés\nLot 88286   EXP 11/2029",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

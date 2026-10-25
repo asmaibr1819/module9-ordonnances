@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Uvédose",
+      "dci": "Vitamine D3",
+      "dosage": "100 000 UI",
+      "indication": "Carence en vitamine D",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Uvédose\n100 000 UI\nVitamine D3\nBoîte de 30 ampoules\nLot 28023   EXP 08/2029",
+  "_meta": {
+    "forme": "ampoule"
+  }
+}

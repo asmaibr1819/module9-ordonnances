@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Fluconazole Arrow",
+      "dci": "Fluconazole",
+      "dosage": "150 mg",
+      "indication": "Infections fongiques (candidose)",
+      "posologie": "1 gélule par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Fervex",
+      "dci": "Paracétamol/Phéniramine/Vitamine C",
+      "dosage": "500 mg",
+      "indication": "Symptômes du rhume et de la grippe",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Efferalgan",
+      "dci": "Paracétamol",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Sami Ben Ammar\nDermatologie - Ben Arous\nPatient : Amira Gharbi  Âge : 40 ans\nLe 02/03/2026\nORDONNANCE\n1) Fluconazole Arrow 150 mg\n1 gél/jour - 1 mois\n2) Fervex 500 mg\n1 sach x 2/jour - 5 jours\n3) Efferalgan 500 mg\n1 cp x 2/jour - 3 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

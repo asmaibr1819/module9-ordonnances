@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Xanax",
+      "dci": "Alprazolam",
+      "dosage": "0,25 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Amlor",
+      "dci": "Amlodipine",
+      "dosage": "5 mg",
+      "indication": "Hypertension artérielle",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Deroxat",
+      "dci": "Paroxétine",
+      "dosage": "20 mg",
+      "indication": "Dépression et troubles anxieux",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Haddad\nCardiologie - Ben Arous\nPatient : Aymen Khelifi  Âge : 56 ans\nLe 14/09/2026\nORDONNANCE\n1) Xanax 0,25 mg\n1 cp matin et soir - 3 mois\n2) Amlor 5 mg\n1 cp le matin - 1 mois\n3) Deroxat 20 mg\n1 cp x 2/jour - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

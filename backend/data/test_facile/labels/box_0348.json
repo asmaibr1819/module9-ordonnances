@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Bétadine",
+      "dci": "Povidone iodée",
+      "dosage": "10 %",
+      "indication": "Antiseptique : désinfection de la peau et des plaies",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Bétadine\n10 %\nPovidone iodée\nBoîte de 30 solutions\nLot 94534   EXP 02/2028",
+  "_meta": {
+    "forme": "solution"
+  }
+}

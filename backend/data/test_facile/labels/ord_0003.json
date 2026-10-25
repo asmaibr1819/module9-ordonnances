@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Flagyl",
+      "dci": "Métronidazole",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes et parasitaires",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Augmentin",
+      "dci": "Amoxicilline/Acide clavulanique",
+      "dosage": "500 mg/62,5 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Motilium",
+      "dci": "Dompéridone",
+      "dosage": "10 mg",
+      "indication": "Nausées, vomissements et ballonnements",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Levothyrox",
+      "dci": "Lévothyroxine",
+      "dosage": "100 µg",
+      "indication": "Insuffisance thyroïdienne",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Aerius",
+      "dci": "Desloratadine",
+      "dosage": "5 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Jlassi\nDermatologie - Sfax\nPatient : Nour Ben Ammar  Âge : 25 ans\nLe 03/09/2026\nORDONNANCE\n1) Flagyl 500 mg\n1 cp le matin - 1 mois\n2) Augmentin 500 mg/62,5 mg\n1 cp x 3/jour - 7 jours\n3) Motilium 10 mg\n1 cp matin et soir - 10 jours\n4) Levothyrox 100 µg\n1 cp x 2/jour - 3 mois\n5) Aerius 5 mg\n1 cp x 2/jour - 14 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

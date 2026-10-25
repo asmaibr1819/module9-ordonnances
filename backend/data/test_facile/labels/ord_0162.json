@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Toplexil",
+      "dci": "Oxomémazine",
+      "dosage": "0,33 mg/ml",
+      "indication": "Toux sèche",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Gharbi\nPédiatrie - Ben Arous\nPatient : Salma Ben Ammar  Âge : 5 ans\nLe 17/04/2026\nORDONNANCE\n1) Toplexil 0,33 mg/ml\n1 cuillère à soupe 3 fois par jour - 3 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

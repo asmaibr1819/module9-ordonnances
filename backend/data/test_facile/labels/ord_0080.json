@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Zovirax",
+      "dci": "Aciclovir",
+      "dosage": "200 mg",
+      "indication": "Herpès et zona",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Tahor",
+      "dci": "Atorvastatine",
+      "dosage": "40 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Chaabane\nDermatologie - Bizerte\nPatient : Yasmine Khelifi  Âge : 66 ans\nLe 03/09/2026\nORDONNANCE\n1) Zovirax 200 mg\n1 comprimé 2 fois par jour - 10 jours\n2) Tahor 40 mg\n1 comprimé matin et soir - 1 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

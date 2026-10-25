@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Clamoxyl",
+      "dci": "Amoxicilline",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Celestène",
+      "dci": "Bétaméthasone",
+      "dosage": "0,5 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Bilel Hamdi\nMédecine générale - Ben Arous\nPatient : Walid Ben Ammar  Âge : 27 ans\nLe 10/03/2026\nORDONNANCE\n1) Clamoxyl 500 mg\n1 cp x 2/jour - 7 jours\n2) Celestène 0,5 mg\n1 cp x 3/jour - 14 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

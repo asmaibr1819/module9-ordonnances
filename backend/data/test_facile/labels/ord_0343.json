@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Motilium",
+      "dci": "Dompéridone",
+      "dosage": "10 mg",
+      "indication": "Nausées, vomissements et ballonnements",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Sami Mansouri\nCardiologie - Sousse\nPatient : Sami Trabelsi  Âge : 17 ans\nLe 25/05/2026\nORDONNANCE\n1) Motilium 10 mg\n1 cp matin et soir - 14 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

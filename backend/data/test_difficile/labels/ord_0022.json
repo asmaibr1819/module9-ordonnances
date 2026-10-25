@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Ciprofloxacine Biogaran",
+      "dci": "Ciprofloxacine",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes, notamment urinaires (antibiotique)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Kardégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "160 mg",
+      "indication": "Prévention des accidents cardiovasculaires (fluidifie le sang)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Sami Mansouri\nDermatologie - Ariana\nPatient : Karim Ben Salah  Âge : 63 ans\nLe 19/05/2026\nORDONNANCE\n1) Ciprofloxacine Biogaran 500 mg\n2 cp x 3/jour - 3 jours\n2) Kardégic 160 mg\n1 cp x 2/jour - 14 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

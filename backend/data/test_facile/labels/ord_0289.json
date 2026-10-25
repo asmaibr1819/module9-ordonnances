@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Amarel",
+      "dci": "Glimépiride",
+      "dosage": "4 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Lina Haddad\nMédecine interne - Nabeul\nPatient : Salma Hamdi  Âge : 63 ans\nLe 18/09/2026\nORDONNANCE\n1) Amarel 4 mg\n1 cp matin et soir - 5 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

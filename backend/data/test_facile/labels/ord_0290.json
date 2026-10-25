@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Toplexil",
+      "dci": "Oxomémazine",
+      "dosage": "0,33 mg/ml",
+      "indication": "Toux sèche",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Mopral",
+      "dci": "Oméprazole",
+      "dosage": "10 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Salma Gharbi\nMédecine interne - Ben Arous\nPatient : Bilel Ben Salah  Âge : 16 ans\nLe 12/11/2026\nORDONNANCE\n1) Toplexil 0,33 mg/ml\n1 c.à.s x 3/j - 3 jours\n2) Mopral 10 mg\n1 cp le matin - 3 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

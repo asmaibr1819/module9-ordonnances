@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Gaviscon",
+      "dci": "Alginate de sodium",
+      "dosage": "500 mg",
+      "indication": "Brûlures d'estomac et remontées acides",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Gaviscon\n500 mg\nAlginate de sodium\nBoîte de 16 sachets\nLot 87677   EXP 06/2029",
+  "_meta": {
+    "forme": "sachet"
+  }
+}

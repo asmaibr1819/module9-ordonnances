@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Solupred",
+      "dci": "Prednisolone",
+      "dosage": "5 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé le soir",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Haddad\nORL - Tunis\nPatient : Walid Haddad  Âge : 64 ans\nLe 26/12/2026\nORDONNANCE\n1) Solupred 5 mg\n1 cp le soir - 7 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

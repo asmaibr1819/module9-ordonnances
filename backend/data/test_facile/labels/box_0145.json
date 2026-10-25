@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Toplexil",
+      "dci": "Oxomémazine",
+      "dosage": "0,33 mg/ml",
+      "indication": "Toux sèche",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Toplexil\n0,33 mg/ml\nOxomémazine\nBoîte de 16 sirops\nLot 30353   EXP 12/2028",
+  "_meta": {
+    "forme": "sirop"
+  }
+}

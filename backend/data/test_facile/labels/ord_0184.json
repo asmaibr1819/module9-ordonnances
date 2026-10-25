@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Mycostatine",
+      "dci": "Nystatine",
+      "dosage": "100 000 UI/ml",
+      "indication": "Mycoses de la bouche et du tube digestif",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Uvédose",
+      "dci": "Vitamine D3",
+      "dosage": "100 000 UI",
+      "indication": "Carence en vitamine D",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Hatem Trabelsi\nDermatologie - Tunis\nPatient : Walid Ben Salah  Âge : 23 ans\nLe 28/04/2026\nORDONNANCE\n1) Mycostatine 100 000 UI/ml\n1 cuillère à soupe 3 fois par jour - 3 jours\n2) Uvédose 100 000 UI\n1 comprimé le matin - 10 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

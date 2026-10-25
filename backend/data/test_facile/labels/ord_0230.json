@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Cataflam",
+      "dci": "Diclofénac potassique",
+      "dosage": "50 mg",
+      "indication": "Douleurs et inflammations",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Fervex",
+      "dci": "Paracétamol/Phéniramine/Vitamine C",
+      "dosage": "500 mg",
+      "indication": "Symptômes du rhume et de la grippe",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Tamiflu",
+      "dci": "Oseltamivir",
+      "dosage": "75 mg",
+      "indication": "Grippe (traitement antiviral)",
+      "posologie": "1 gélule par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Xanax",
+      "dci": "Alprazolam",
+      "dosage": "0,25 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Haddad\nORL - Sfax\nPatient : Ines Hamdi  Âge : 62 ans\nLe 07/09/2026\nORDONNANCE\n1) Cataflam 50 mg\n1 comprimé matin et soir - 14 jours\n2) Fervex 500 mg\n1 sachet 2 fois par jour - 7 jours\n3) Tamiflu 75 mg\n1 gélule par jour - 5 jours\n4) Xanax 0,25 mg\n1 comprimé 2 fois par jour - 3 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Tamiflu",
+      "dci": "Oseltamivir",
+      "dosage": "75 mg",
+      "indication": "Grippe (traitement antiviral)",
+      "posologie": "1 comprimé le matin",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Maxidrol",
+      "dci": "Dexaméthasone/Néomycine",
+      "dosage": "0,1 %",
+      "indication": "Inflammation de l'œil avec infection (collyre)",
+      "posologie": "1 application matin et soir",
+      "duree": "3 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Jlassi\nDermatologie - Sfax\nPatient : Mehdi Trabelsi  Âge : 39 ans\nLe 24/04/2026\nORDONNANCE\n1) Tamiflu 75 mg\n1 cp le matin - 7 jours\n2) Maxidrol 0,1 %\n1 appl. matin et soir - 3 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,128 @@
+<div class="workspace" data-testid="prescription-workspace">
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">MED</span>
+      <div class="brand-text">
+        <strong>MedRAG</strong>
+        <span>Lecture d’ordonnances</span>
+      </div>
+    </div>
+    <div class="topbar-actions">
+      <button
+        type="button"
+        class="api-pill"
+        [class.online]="apiOnline() === true"
+        [class.offline]="apiOnline() === false"
+        (click)="checkApi()"
+        title="Revérifier la connexion à l'API"
+        data-testid="api-status"
+        [disabled]="loading()"
+      >
+        <span class="dot" aria-hidden="true"></span>{{ apiLabel() }}
+      </button>
+      <a class="link" routerLink="/pharmacien">Espace pharmacien</a>
+      <a class="link" routerLink="/">Assistant patient</a>
+    </div>
+  </header>
+
+  <main class="page">
+    <h1>Ordonnance ou boîte de médicament</h1>
+    <p class="lead">
+      Envoie une photo ou saisis un nom : l’application corrige l’orthographe et
+      indique à quoi sert chaque médicament.
+    </p>
+
+    @if (error(); as message) {
+      <div class="error" role="alert" data-testid="error">{{ message }}</div>
+    }
+
+    <div class="layout">
+      <section class="card" aria-labelledby="input-title">
+        <h2 id="input-title">1. Entrée</h2>
+
+        <div class="tabs" role="tablist">
+          <button type="button" role="tab" [attr.aria-selected]="mode() === 'photo'"
+            [class.active]="mode() === 'photo'" (click)="setMode('photo')">Photo</button>
+          <button type="button" role="tab" [attr.aria-selected]="mode() === 'texte'"
+            [class.active]="mode() === 'texte'" (click)="setMode('texte')">Texte</button>
+        </div>
+
+        @if (mode() === 'photo') {
+          <label class="field">
+            Image (JPG, PNG ou WEBP, 8 Mo maximum)
+            <input type="file" accept="image/jpeg,image/png,image/webp"
+              (change)="onFile($event)" data-testid="file-input" />
+          </label>
+          @if (previewUrl(); as url) {
+            <img class="preview" [src]="url" alt="Aperçu de l'image choisie" />
+          }
+          <label class="field">
+            Moteur de lecture
+            <select (change)="setEngine($event)" data-testid="engine">
+              <option value="">Par défaut</option>
+              <option value="tesseract">Tesseract</option>
+              <option value="vlm">Modèle de vision (clé API)</option>
+              <option value="lora">Modèle adapté LoRA (GPU)</option>
+            </select>
+          </label>
+          <button type="button" class="primary" [disabled]="!canScan()"
+            (click)="scan()" data-testid="scan">Analyser la photo</button>
+        }
+
+        <label class="field">
+          Texte lu (modifiable)
+          <textarea rows="6" [value]="text()" (input)="onText($event)"
+            placeholder="Le texte lu apparaît ici ; tu peux aussi saisir ou corriger un nom, par exemple « doliprann »."
+            data-testid="text-input"></textarea>
+        </label>
+        <button type="button" class="primary" [disabled]="!canAnalyze()"
+          (click)="analyze()" data-testid="analyze">Analyser le texte</button>
+      </section>
+
+      <section class="card" aria-labelledby="result-title" aria-live="polite">
+        <h2 id="result-title">2. Résultat</h2>
+
+        @if (loading()) {
+          <p class="muted" data-testid="loading">{{ step() }}</p>
+        } @else {
+        @if (sheet(); as s) {
+          <div class="chips" data-testid="chips">
+            <span class="chip">{{ s.type === 'boite' ? 'Boîte / saisie' : 'Ordonnance' }}</span>
+            <span class="chip">{{ s.mode === 'llm' ? 'LLM' : 'Mode dégradé (règles)' }}</span>
+            @if (s.latence_ms !== null) {
+              <span class="chip">{{ s.latence_ms }} ms</span>
+            }
+          </div>
+
+          @for (m of s.medicaments; track m.nom) {
+            <article class="med" [class.warn]="!m.verifie_referentiel" data-testid="medicament">
+              <h3>
+                {{ m.nom }}
+                @if (m.dosage) { <span class="dose">{{ m.dosage }}</span> }
+                @else { <span class="dose muted">(dosage non précisé)</span> }
+              </h3>
+              @if (m.dci) { <p><b>DCI :</b> {{ m.dci }}</p> }
+              <p><b>Sert à :</b> {{ m.indication ?? 'non renseigné' }}</p>
+              @if (m.posologie) {
+                <p><b>Posologie :</b> {{ m.posologie }}@if (m.duree) { — {{ m.duree }} }</p>
+              }
+              @if (!m.verifie_referentiel) {
+                <p class="alert">À vérifier avec un pharmacien.</p>
+              }
+            </article>
+          }
+
+          @if (s.a_verifier.length > 0) {
+            <div class="error" data-testid="a-verifier">
+              <b>À vérifier :</b> {{ s.a_verifier.join(' ; ') }}
+            </div>
+          }
+          <p class="muted small">{{ s.avertissement }}</p>
+        } @else {
+          <p class="muted">Le résultat s’affichera ici.</p>
+        }
+        }
+      </section>
+    </div>
+  </main>
+</div>

@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Amarel",
+      "dci": "Glimépiride",
+      "dosage": "4 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Crestor",
+      "dci": "Rosuvastatine",
+      "dosage": "10 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Efferalgan",
+      "dci": "Paracétamol",
+      "dosage": "1000 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Solupred",
+      "dci": "Prednisolone",
+      "dosage": "20 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Walid Mansouri\nPédiatrie - Ariana\nPatient : Salma Ben Ammar  Âge : 70 ans\nLe 17/12/2026\nORDONNANCE\n1) Amarel 4 mg\n1 comprimé le soir - 3 jours\n2) Crestor 10 mg\n1 comprimé 3 fois par jour - 3 mois\n3) Efferalgan 1000 mg\n1 comprimé matin et soir - 3 jours\n4) Solupred 20 mg\n1 comprimé le matin - 10 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

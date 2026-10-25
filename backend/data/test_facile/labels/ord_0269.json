@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Celestène",
+      "dci": "Bétaméthasone",
+      "dosage": "0,5 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Inexium",
+      "dci": "Ésoméprazole",
+      "dosage": "40 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Motilium",
+      "dci": "Dompéridone",
+      "dosage": "10 mg",
+      "indication": "Nausées, vomissements et ballonnements",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Nurofen",
+      "dci": "Ibuprofène",
+      "dosage": "200 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Uvédose",
+      "dci": "Vitamine D3",
+      "dosage": "100 000 UI",
+      "indication": "Carence en vitamine D",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Gharbi\nPédiatrie - Tunis\nPatient : Amira Bouzid  Âge : 79 ans\nLe 06/06/2026\nORDONNANCE\n1) Celestène 0,5 mg\n1 comprimé le soir - 3 jours\n2) Inexium 40 mg\n2 comprimés 3 fois par jour - 3 mois\n3) Motilium 10 mg\n1 comprimé 2 fois par jour - 5 jours\n4) Nurofen 200 mg\n1 comprimé le soir - 3 mois\n5) Uvédose 100 000 UI\n1 comprimé le matin - 3 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

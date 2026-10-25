@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Coversyl",
+      "dci": "Périndopril",
+      "dosage": "5 mg",
+      "indication": "Hypertension artérielle et insuffisance cardiaque",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Brufen",
+      "dci": "Ibuprofène",
+      "dosage": "400 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Mag 2",
+      "dci": "Magnésium",
+      "dosage": "122 mg",
+      "indication": "Carence en magnésium",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Zithromax",
+      "dci": "Azithromycine",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Amira Gharbi\nORL - Tunis\nPatient : Bilel Haddad  Âge : 39 ans\nLe 28/05/2026\nORDONNANCE\n1) Coversyl 5 mg\n2 cp x 3/jour - 3 mois\n2) Brufen 400 mg\n2 cp x 3/jour - 1 mois\n3) Mag 2 122 mg\n1 cp le matin - 1 mois\n4) Zithromax 500 mg\n1 cp x 2/jour - 3 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

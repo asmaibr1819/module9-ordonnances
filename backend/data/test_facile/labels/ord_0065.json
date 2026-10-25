@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Levothyrox",
+      "dci": "Lévothyroxine",
+      "dosage": "100 µg",
+      "indication": "Insuffisance thyroïdienne",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Ben Ammar\nPédiatrie - Nabeul\nPatient : Bilel Chaabane  Âge : 78 ans\nLe 07/04/2026\nORDONNANCE\n1) Levothyrox 100 µg\n1 comprimé le matin - 1 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

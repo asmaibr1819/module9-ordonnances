@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Clamoxyl",
+      "dci": "Amoxicilline",
+      "dosage": "1 g",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 gélule par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Fervex",
+      "dci": "Paracétamol/Phéniramine/Vitamine C",
+      "dosage": "500 mg",
+      "indication": "Symptômes du rhume et de la grippe",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Kardégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "160 mg",
+      "indication": "Prévention des accidents cardiovasculaires (fluidifie le sang)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Cataflam",
+      "dci": "Diclofénac potassique",
+      "dosage": "50 mg",
+      "indication": "Douleurs et inflammations",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Smecta",
+      "dci": "Diosmectite",
+      "dosage": "3 g",
+      "indication": "Diarrhée",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Hatem Ben Salah\nDermatologie - Bizerte\nPatient : Karim Sassi  Âge : 79 ans\nLe 08/08/2026\nORDONNANCE\n1) Clamoxyl 1 g\n1 gél/jour - 1 mois\n2) Fervex 500 mg\n1 cp x 2/jour - 7 jours\n3) Kardégic 160 mg\n1 cp x 2/jour - 7 jours\n4) Cataflam 50 mg\n1 cp x 2/jour - 3 mois\n5) Smecta 3 g\n1 sach x 2/jour - 3 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Zithromax",
+      "dci": "Azithromycine",
+      "dosage": "250 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Zithromax\n250 mg\nAzithromycine\nBoîte de 30 comprimés\nLot 66873   EXP 11/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

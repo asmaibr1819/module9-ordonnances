@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Augmentin",
+      "dci": "Amoxicilline/Acide clavulanique",
+      "dosage": "1 g/125 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Augmentin\n1 g/125 mg\nAmoxicilline/Acide clavulanique\nBoîte de 24 comprimés\nLot 70294   EXP 05/2029",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

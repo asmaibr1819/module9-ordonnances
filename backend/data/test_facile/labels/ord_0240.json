@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Zovirax",
+      "dci": "Aciclovir",
+      "dosage": "200 mg",
+      "indication": "Herpès et zona",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Voltarène",
+      "dci": "Diclofénac",
+      "dosage": "75 mg",
+      "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Advil",
+      "dci": "Ibuprofène",
+      "dosage": "400 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Glucophage",
+      "dci": "Metformine",
+      "dosage": "850 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Sami Chaabane\nCardiologie - Ben Arous\nPatient : Bilel Jlassi  Âge : 78 ans\nLe 07/01/2026\nORDONNANCE\n1) Zovirax 200 mg\n1 comprimé le matin - 14 jours\n2) Voltarène 75 mg\n1 comprimé le soir - 3 mois\n3) Advil 400 mg\n2 comprimés 3 fois par jour - 7 jours\n4) Glucophage 850 mg\n1 comprimé 2 fois par jour - 3 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Clamoxyl",
+      "dci": "Amoxicilline",
+      "dosage": "1 g",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Tahor",
+      "dci": "Atorvastatine",
+      "dosage": "10 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Coversyl",
+      "dci": "Périndopril",
+      "dosage": "10 mg",
+      "indication": "Hypertension artérielle et insuffisance cardiaque",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Amira Ben Salah\nMédecine interne - Nabeul\nPatient : Walid Ben Ammar  Âge : 8 ans\nLe 27/04/2026\nORDONNANCE\n1) Clamoxyl 1 g\n1 cp le matin - 10 jours\n2) Tahor 10 mg\n1 cp x 2/jour - 10 jours\n3) Coversyl 10 mg\n1 cp le matin - 3 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

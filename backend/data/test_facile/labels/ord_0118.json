@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Imodium",
+      "dci": "Lopéramide",
+      "dosage": "2 mg",
+      "indication": "Diarrhée aiguë",
+      "posologie": "1 gélule par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Kardégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "75 mg",
+      "indication": "Prévention des accidents cardiovasculaires (fluidifie le sang)",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Karim Khelifi\nDermatologie - Bizerte\nPatient : Salma Ben Salah  Âge : 11 ans\nLe 16/09/2026\nORDONNANCE\n1) Imodium 2 mg\n1 gél/jour - 7 jours\n2) Kardégic 75 mg\n1 sach x 2/jour - 5 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

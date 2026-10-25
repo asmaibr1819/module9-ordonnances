@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Uvédose",
+      "dci": "Vitamine D3",
+      "dosage": "100 000 UI",
+      "indication": "Carence en vitamine D",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Youssef Gharbi\nORL - Bizerte\nPatient : Walid Mansouri  Âge : 49 ans\nLe 01/09/2026\nORDONNANCE\n1) Uvédose 100 000 UI\n1 cp le matin - 3 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

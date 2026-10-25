@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Deroxat",
+      "dci": "Paroxétine",
+      "dosage": "20 mg",
+      "indication": "Dépression et troubles anxieux",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Spasfon",
+      "dci": "Phloroglucinol",
+      "dosage": "80 mg",
+      "indication": "Douleurs spasmodiques (ventre, règles)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Oroken",
+      "dci": "Céfixime",
+      "dosage": "200 mg",
+      "indication": "Infections bactériennes ORL et respiratoires (antibiotique)",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Levothyrox",
+      "dci": "Lévothyroxine",
+      "dosage": "50 µg",
+      "indication": "Insuffisance thyroïdienne",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Celestène",
+      "dci": "Bétaméthasone",
+      "dosage": "0,5 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Yasmine Trabelsi\nDermatologie - Tunis\nPatient : Youssef Khelifi  Âge : 26 ans\nLe 20/07/2026\nORDONNANCE\n1) Deroxat 20 mg\n1 comprimé 2 fois par jour - 10 jours\n2) Spasfon 80 mg\n1 comprimé matin et soir - 3 jours\n3) Oroken 200 mg\n1 comprimé le matin - 3 jours\n4) Levothyrox 50 µg\n1 comprimé 2 fois par jour - 1 mois\n5) Celestène 0,5 mg\n2 comprimés 3 fois par jour - 3 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

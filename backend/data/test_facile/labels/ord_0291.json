@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Mag 2",
+      "dci": "Magnésium",
+      "dosage": "122 mg",
+      "indication": "Carence en magnésium",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Bactrim",
+      "dci": "Sulfaméthoxazole/Triméthoprime",
+      "dosage": "400 mg/80 mg",
+      "indication": "Infections bactériennes, notamment urinaires (antibiotique)",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Uvédose",
+      "dci": "Vitamine D3",
+      "dosage": "100 000 UI",
+      "indication": "Carence en vitamine D",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Youssef Gharbi\nPédiatrie - Ben Arous\nPatient : Youssef Sassi  Âge : 17 ans\nLe 25/05/2026\nORDONNANCE\n1) Mag 2 122 mg\n1 cp le matin - 14 jours\n2) Bactrim 400 mg/80 mg\n1 cp le matin - 3 mois\n3) Uvédose 100 000 UI\n1 cp le matin - 3 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

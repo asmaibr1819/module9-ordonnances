@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Levothyrox",
+      "dci": "Lévothyroxine",
+      "dosage": "100 µg",
+      "indication": "Insuffisance thyroïdienne",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Chaabane\nMédecine interne - Sfax\nPatient : Aymen Haddad  Âge : 61 ans\nLe 14/01/2026\nORDONNANCE\n1) Levothyrox 100 µg\n1 comprimé 2 fois par jour - 7 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

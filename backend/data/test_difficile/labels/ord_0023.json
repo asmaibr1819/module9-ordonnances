@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Coversyl",
+      "dci": "Périndopril",
+      "dosage": "10 mg",
+      "indication": "Hypertension artérielle et insuffisance cardiaque",
+      "posologie": "1 comprimé le matin",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Celestène",
+      "dci": "Bétaméthasone",
+      "dosage": "0,5 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé le soir",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Voltarène",
+      "dci": "Diclofénac",
+      "dosage": "75 mg",
+      "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Solupred",
+      "dci": "Prednisolone",
+      "dosage": "20 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Dacryoserum",
+      "dci": "Chlorure de sodium",
+      "dosage": "0,9 %",
+      "indication": "Nettoyage et lavage des yeux",
+      "posologie": "1 application matin et soir",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Salma Gharbi\nMédecine interne - Nabeul\nPatient : Mehdi Khelifi  Âge : 16 ans\nLe 03/07/2026\nORDONNANCE\n1) Coversyl 10 mg\n1 comprimé le matin - 5 jours\n2) Celestène 0,5 mg\n1 comprimé le soir - 14 jours\n3) Voltarène 75 mg\n1 comprimé 2 fois par jour - 10 jours\n4) Solupred 20 mg\n1 comprimé 2 fois par jour - 3 jours\n5) Dacryoserum 0,9 %\n1 application matin et soir - 5 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

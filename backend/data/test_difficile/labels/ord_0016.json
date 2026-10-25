@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Clarityne",
+      "dci": "Loratadine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Cataflam",
+      "dci": "Diclofénac potassique",
+      "dosage": "50 mg",
+      "indication": "Douleurs et inflammations",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Tahor",
+      "dci": "Atorvastatine",
+      "dosage": "10 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Brufen",
+      "dci": "Ibuprofène",
+      "dosage": "400 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Tranxène",
+      "dci": "Clorazépate",
+      "dosage": "10 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Aymen Sassi\nMédecine générale - Tunis\nPatient : Yasmine Trabelsi  Âge : 58 ans\nLe 01/07/2026\nORDONNANCE\n1) Clarityne 10 mg\n2 comprimés 3 fois par jour - 3 jours\n2) Cataflam 50 mg\n1 comprimé 3 fois par jour - 14 jours\n3) Tahor 10 mg\n2 comprimés 3 fois par jour - 3 jours\n4) Brufen 400 mg\n1 comprimé matin et soir - 3 mois\n5) Tranxène 10 mg\n1 comprimé 2 fois par jour - 3 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

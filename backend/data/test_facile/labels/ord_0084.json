@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Tardyferon",
+      "dci": "Sulfate ferreux",
+      "dosage": "80 mg",
+      "indication": "Carence en fer (anémie)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Ventoline",
+      "dci": "Salbutamol",
+      "dosage": "100 µg",
+      "indication": "Crises d'asthme (dilate les bronches)",
+      "posologie": "2 bouffées en cas de crise",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Glucophage",
+      "dci": "Metformine",
+      "dosage": "850 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Aspégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Motilium",
+      "dci": "Dompéridone",
+      "dosage": "10 mg",
+      "indication": "Nausées, vomissements et ballonnements",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Nour Hamdi\nCardiologie - Tunis\nPatient : Mehdi Haddad  Âge : 45 ans\nLe 15/09/2026\nORDONNANCE\n1) Tardyferon 80 mg\n1 comprimé 2 fois par jour - 7 jours\n2) Ventoline 100 µg\n2 bouffées en cas de crise - 3 mois\n3) Glucophage 850 mg\n1 comprimé 2 fois par jour - 1 mois\n4) Aspégic 500 mg\n1 sachet 2 fois par jour - 3 jours\n5) Motilium 10 mg\n1 comprimé le matin - 1 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

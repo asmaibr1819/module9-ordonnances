@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Maxidrol",
+      "dci": "Dexaméthasone/Néomycine",
+      "dosage": "0,1 %",
+      "indication": "Inflammation de l'œil avec infection (collyre)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Maxidrol\n0,1 %\nDexaméthasone/Néomycine\nBoîte de 12 collyres\nLot 67073   EXP 06/2029",
+  "_meta": {
+    "forme": "collyre"
+  }
+}

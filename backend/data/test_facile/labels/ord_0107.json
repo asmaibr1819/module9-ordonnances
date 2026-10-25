@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Tenormine",
+      "dci": "Aténolol",
+      "dosage": "100 mg",
+      "indication": "Hypertension, angine de poitrine et troubles du rythme cardiaque",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Deroxat",
+      "dci": "Paroxétine",
+      "dosage": "20 mg",
+      "indication": "Dépression et troubles anxieux",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Myolastan",
+      "dci": "Tétrazépam",
+      "dosage": "50 mg",
+      "indication": "Contractures musculaires douloureuses",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Nour Ben Salah\nCardiologie - Sfax\nPatient : Karim Jlassi  Âge : 12 ans\nLe 01/07/2026\nORDONNANCE\n1) Tenormine 100 mg\n1 comprimé 3 fois par jour - 3 jours\n2) Deroxat 20 mg\n1 comprimé le matin - 3 mois\n3) Myolastan 50 mg\n1 comprimé matin et soir - 3 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

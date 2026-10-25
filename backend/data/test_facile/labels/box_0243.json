@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Xanax",
+      "dci": "Alprazolam",
+      "dosage": "0,25 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Xanax\n0,25 mg\nAlprazolam\nBoîte de 10 comprimés\nLot 60309   EXP 04/2029",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

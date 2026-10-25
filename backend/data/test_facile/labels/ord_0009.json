@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Tamiflu",
+      "dci": "Oseltamivir",
+      "dosage": "75 mg",
+      "indication": "Grippe (traitement antiviral)",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Spasfon",
+      "dci": "Phloroglucinol",
+      "dosage": "80 mg",
+      "indication": "Douleurs spasmodiques (ventre, règles)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Nour Hamdi\nORL - Tunis\nPatient : Sami Ben Salah  Âge : 35 ans\nLe 02/08/2026\nORDONNANCE\n1) Tamiflu 75 mg\n1 cp le matin - 3 mois\n2) Spasfon 80 mg\n1 cp x 2/jour - 3 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Flagyl",
+      "dci": "Métronidazole",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes et parasitaires",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Xanax",
+      "dci": "Alprazolam",
+      "dosage": "0,5 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Amarel",
+      "dci": "Glimépiride",
+      "dosage": "4 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Maxidrol",
+      "dci": "Dexaméthasone/Néomycine",
+      "dosage": "0,1 %",
+      "indication": "Inflammation de l'œil avec infection (collyre)",
+      "posologie": "1 application matin et soir",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Khelifi\nORL - Nabeul\nPatient : Sami Sassi  Âge : 82 ans\nLe 07/12/2026\nORDONNANCE\n1) Flagyl 500 mg\n1 cp x 2/jour - 3 jours\n2) Xanax 0,5 mg\n2 cp x 3/jour - 3 jours\n3) Amarel 4 mg\n1 cp x 3/jour - 3 mois\n4) Maxidrol 0,1 %\n1 appl. matin et soir - 14 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

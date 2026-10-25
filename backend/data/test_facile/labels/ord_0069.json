@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Coversyl",
+      "dci": "Périndopril",
+      "dosage": "5 mg",
+      "indication": "Hypertension artérielle et insuffisance cardiaque",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Karim Ben Salah\nMédecine interne - Bizerte\nPatient : Ines Chaabane  Âge : 6 ans\nLe 06/01/2026\nORDONNANCE\n1) Coversyl 5 mg\n1 comprimé matin et soir - 3 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

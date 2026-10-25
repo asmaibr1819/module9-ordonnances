@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Efferalgan",
+      "dci": "Paracétamol",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Crestor",
+      "dci": "Rosuvastatine",
+      "dosage": "10 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Doliprane",
+      "dci": "Paracétamol",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Brufen",
+      "dci": "Ibuprofène",
+      "dosage": "400 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Ventoline",
+      "dci": "Salbutamol",
+      "dosage": "100 µg",
+      "indication": "Crises d'asthme (dilate les bronches)",
+      "posologie": "2 bouffées en cas de crise",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Karim Gharbi\nPédiatrie - Bizerte\nPatient : Bilel Gharbi  Âge : 18 ans\nLe 09/11/2026\nORDONNANCE\n1) Efferalgan 500 mg\n1 comprimé 2 fois par jour - 3 jours\n2) Crestor 10 mg\n2 comprimés 3 fois par jour - 3 mois\n3) Doliprane 500 mg\n1 comprimé matin et soir - 3 jours\n4) Brufen 400 mg\n2 comprimés 3 fois par jour - 7 jours\n5) Ventoline 100 µg\n2 bouffées en cas de crise - 14 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

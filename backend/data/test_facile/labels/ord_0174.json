@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Myolastan",
+      "dci": "Tétrazépam",
+      "dosage": "50 mg",
+      "indication": "Contractures musculaires douloureuses",
+      "posologie": "1 comprimé le soir",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Levothyrox",
+      "dci": "Lévothyroxine",
+      "dosage": "75 µg",
+      "indication": "Insuffisance thyroïdienne",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Augmentin",
+      "dci": "Amoxicilline/Acide clavulanique",
+      "dosage": "1 g/125 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Deroxat",
+      "dci": "Paroxétine",
+      "dosage": "20 mg",
+      "indication": "Dépression et troubles anxieux",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Youssef Haddad\nPédiatrie - Ariana\nPatient : Yasmine Ben Ammar  Âge : 58 ans\nLe 16/12/2026\nORDONNANCE\n1) Myolastan 50 mg\n1 cp le soir - 5 jours\n2) Levothyrox 75 µg\n1 cp x 2/jour - 1 mois\n3) Augmentin 1 g/125 mg\n1 cp le matin - 14 jours\n4) Deroxat 20 mg\n1 cp x 2/jour - 3 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

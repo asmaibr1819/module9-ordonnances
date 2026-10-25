@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Glucophage",
+      "dci": "Metformine",
+      "dosage": "500 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Efferalgan",
+      "dci": "Paracétamol",
+      "dosage": "1000 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Amira Bouzid\nORL - Nabeul\nPatient : Sami Mansouri  Âge : 45 ans\nLe 01/10/2026\nORDONNANCE\n1) Glucophage 500 mg\n1 comprimé le matin - 3 jours\n2) Efferalgan 1000 mg\n1 comprimé 2 fois par jour - 3 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

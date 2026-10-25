@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Bétadine",
+      "dci": "Povidone iodée",
+      "dosage": "10 %",
+      "indication": "Antiseptique : désinfection de la peau et des plaies",
+      "posologie": "1 application matin et soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Cataflam",
+      "dci": "Diclofénac potassique",
+      "dosage": "50 mg",
+      "indication": "Douleurs et inflammations",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Levothyrox",
+      "dci": "Lévothyroxine",
+      "dosage": "50 µg",
+      "indication": "Insuffisance thyroïdienne",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Walid Hamdi\nMédecine générale - Tunis\nPatient : Hatem Sassi  Âge : 74 ans\nLe 27/07/2026\nORDONNANCE\n1) Bétadine 10 %\n1 application matin et soir - 1 mois\n2) Cataflam 50 mg\n1 comprimé 2 fois par jour - 14 jours\n3) Levothyrox 50 µg\n1 comprimé 2 fois par jour - 10 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

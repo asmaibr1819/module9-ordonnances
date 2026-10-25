@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Levothyrox",
+      "dci": "Lévothyroxine",
+      "dosage": "75 µg",
+      "indication": "Insuffisance thyroïdienne",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Aspégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Doliprane",
+      "dci": "Paracétamol",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Nour Bouzid\nMédecine interne - Ben Arous\nPatient : Amira Jlassi  Âge : 60 ans\nLe 09/03/2026\nORDONNANCE\n1) Levothyrox 75 µg\n2 cp x 3/jour - 5 jours\n2) Aspégic 500 mg\n1 sach x 2/jour - 5 jours\n3) Doliprane 500 mg\n1 cp x 2/jour - 3 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

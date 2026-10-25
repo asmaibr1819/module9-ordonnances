@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Uvédose",
+      "dci": "Vitamine D3",
+      "dosage": "100 000 UI",
+      "indication": "Carence en vitamine D",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Zyrtec",
+      "dci": "Cétirizine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Lasilix",
+      "dci": "Furosémide",
+      "dosage": "40 mg",
+      "indication": "Rétention d'eau (œdèmes) et hypertension",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Nour Jlassi\nDermatologie - Ben Arous\nPatient : Youssef Hamdi  Âge : 24 ans\nLe 13/03/2026\nORDONNANCE\n1) Uvédose 100 000 UI\n1 comprimé le matin - 1 mois\n2) Zyrtec 10 mg\n1 comprimé matin et soir - 7 jours\n3) Lasilix 40 mg\n1 comprimé le matin - 10 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

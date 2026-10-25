@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Lasilix",
+      "dci": "Furosémide",
+      "dosage": "40 mg",
+      "indication": "Rétention d'eau (œdèmes) et hypertension",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Mopral",
+      "dci": "Oméprazole",
+      "dosage": "10 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Voltarène",
+      "dci": "Diclofénac",
+      "dosage": "75 mg",
+      "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)",
+      "posologie": "1 comprimé le matin",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Fucidine",
+      "dci": "Acide fusidique",
+      "dosage": "2 %",
+      "indication": "Infections bactériennes de la peau",
+      "posologie": "1 application matin et soir",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Salma Ben Ammar\nORL - Nabeul\nPatient : Karim Khelifi  Âge : 73 ans\nLe 15/12/2026\nORDONNANCE\n1) Lasilix 40 mg\n2 cp x 3/jour - 5 jours\n2) Mopral 10 mg\n1 cp x 2/jour - 5 jours\n3) Voltarène 75 mg\n1 cp le matin - 7 jours\n4) Fucidine 2 %\n1 appl. matin et soir - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

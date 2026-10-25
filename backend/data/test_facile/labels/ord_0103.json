@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Fervex",
+      "dci": "Paracétamol/Phéniramine/Vitamine C",
+      "dosage": "500 mg",
+      "indication": "Symptômes du rhume et de la grippe",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Zyrtec",
+      "dci": "Cétirizine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Ines Haddad\nORL - Nabeul\nPatient : Ines Mansouri  Âge : 80 ans\nLe 10/02/2026\nORDONNANCE\n1) Fervex 500 mg\n1 sachet 2 fois par jour - 3 mois\n2) Zyrtec 10 mg\n1 comprimé le matin - 14 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

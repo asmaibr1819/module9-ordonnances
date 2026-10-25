@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Fervex",
+      "dci": "Paracétamol/Phéniramine/Vitamine C",
+      "dosage": "500 mg",
+      "indication": "Symptômes du rhume et de la grippe",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Fervex\n500 mg\nParacétamol/Phéniramine/Vitamine C\nBoîte de 12 sachets\nLot 78334   EXP 01/2027",
+  "_meta": {
+    "forme": "sachet"
+  }
+}

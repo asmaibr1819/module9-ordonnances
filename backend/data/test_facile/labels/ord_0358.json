@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Coversyl",
+      "dci": "Périndopril",
+      "dosage": "10 mg",
+      "indication": "Hypertension artérielle et insuffisance cardiaque",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Efferalgan",
+      "dci": "Paracétamol",
+      "dosage": "1000 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Tahor",
+      "dci": "Atorvastatine",
+      "dosage": "20 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Oroken",
+      "dci": "Céfixime",
+      "dosage": "200 mg",
+      "indication": "Infections bactériennes ORL et respiratoires (antibiotique)",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Aymen Sassi\nORL - Bizerte\nPatient : Mehdi Ben Salah  Âge : 47 ans\nLe 20/02/2026\nORDONNANCE\n1) Coversyl 10 mg\n1 cp x 2/jour - 14 jours\n2) Efferalgan 1000 mg\n1 cp matin et soir - 14 jours\n3) Tahor 20 mg\n1 cp x 3/jour - 14 jours\n4) Oroken 200 mg\n1 cp le matin - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

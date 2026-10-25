@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Nurofen",
+      "dci": "Ibuprofène",
+      "dosage": "400 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé le matin",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Oroken",
+      "dci": "Céfixime",
+      "dosage": "200 mg",
+      "indication": "Infections bactériennes ORL et respiratoires (antibiotique)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Uvédose",
+      "dci": "Vitamine D3",
+      "dosage": "100 000 UI",
+      "indication": "Carence en vitamine D",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Kardégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "75 mg",
+      "indication": "Prévention des accidents cardiovasculaires (fluidifie le sang)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Karim Ben Ammar\nPédiatrie - Ariana\nPatient : Walid Ben Salah  Âge : 26 ans\nLe 08/09/2026\nORDONNANCE\n1) Nurofen 400 mg\n1 comprimé le matin - 7 jours\n2) Oroken 200 mg\n2 comprimés 3 fois par jour - 1 mois\n3) Uvédose 100 000 UI\n1 comprimé le matin - 10 jours\n4) Kardégic 75 mg\n1 comprimé 2 fois par jour - 10 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

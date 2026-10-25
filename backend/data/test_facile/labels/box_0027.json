@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Lasilix",
+      "dci": "Furosémide",
+      "dosage": "40 mg",
+      "indication": "Rétention d'eau (œdèmes) et hypertension",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Lasilix\n40 mg\nFurosémide\nBoîte de 20 comprimés\nLot 92285   EXP 08/2027",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

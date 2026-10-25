@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Advil",
+      "dci": "Ibuprofène",
+      "dosage": "200 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Dacryoserum",
+      "dci": "Chlorure de sodium",
+      "dosage": "0,9 %",
+      "indication": "Nettoyage et lavage des yeux",
+      "posologie": "1 application matin et soir",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Walid Mansouri\nDermatologie - Bizerte\nPatient : Rim Hamdi  Âge : 65 ans\nLe 03/04/2026\nORDONNANCE\n1) Advil 200 mg\n1 comprimé 2 fois par jour - 14 jours\n2) Dacryoserum 0,9 %\n1 application matin et soir - 7 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

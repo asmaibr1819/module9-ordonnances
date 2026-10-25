@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Mucolator",
+      "dci": "Carbocistéine",
+      "dosage": "750 mg",
+      "indication": "Toux grasse et encombrement des bronches",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Crestor",
+      "dci": "Rosuvastatine",
+      "dosage": "10 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Sami Mansouri\nMédecine interne - Sousse\nPatient : Bilel Chaabane  Âge : 27 ans\nLe 10/01/2026\nORDONNANCE\n1) Mucolator 750 mg\n1 c.à.s x 3/j - 1 mois\n2) Crestor 10 mg\n1 cp matin et soir - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Celestène",
+      "dci": "Bétaméthasone",
+      "dosage": "0,5 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Celestène\n0,5 mg\nBétaméthasone\nBoîte de 20 comprimés\nLot 60712   EXP 11/2027",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Xanax",
+      "dci": "Alprazolam",
+      "dosage": "0,25 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Gaviscon",
+      "dci": "Alginate de sodium",
+      "dosage": "500 mg",
+      "indication": "Brûlures d'estomac et remontées acides",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Hatem Khelifi\nORL - Sousse\nPatient : Amira Ben Ammar  Âge : 24 ans\nLe 08/06/2026\nORDONNANCE\n1) Xanax 0,25 mg\n1 cp x 2/jour - 3 mois\n2) Gaviscon 500 mg\n1 sach x 2/jour - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

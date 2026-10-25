@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Inexium",
+      "dci": "Ésoméprazole",
+      "dosage": "20 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Inexium\n20 mg\nÉsoméprazole\nBoîte de 24 comprimés\nLot 87723   EXP 12/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

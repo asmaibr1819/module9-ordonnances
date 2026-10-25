@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Dacryoserum",
+      "dci": "Chlorure de sodium",
+      "dosage": "0,9 %",
+      "indication": "Nettoyage et lavage des yeux",
+      "posologie": "1 application matin et soir",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Tardyferon",
+      "dci": "Sulfate ferreux",
+      "dosage": "80 mg",
+      "indication": "Carence en fer (anémie)",
+      "posologie": "1 comprimé le soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Deroxat",
+      "dci": "Paroxétine",
+      "dosage": "20 mg",
+      "indication": "Dépression et troubles anxieux",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Sami Trabelsi\nPédiatrie - Sfax\nPatient : Yasmine Hamdi  Âge : 54 ans\nLe 19/10/2026\nORDONNANCE\n1) Dacryoserum 0,9 %\n1 appl. matin et soir - 7 jours\n2) Tardyferon 80 mg\n1 cp le soir - 1 mois\n3) Deroxat 20 mg\n1 cp x 2/jour - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

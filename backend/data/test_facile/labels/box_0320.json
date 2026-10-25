@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Myolastan",
+      "dci": "Tétrazépam",
+      "dosage": "50 mg",
+      "indication": "Contractures musculaires douloureuses",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Myolastan\n50 mg\nTétrazépam\nBoîte de 8 comprimés\nLot 87837   EXP 12/2029",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

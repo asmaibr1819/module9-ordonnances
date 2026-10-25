@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Voltarène",
+      "dci": "Diclofénac",
+      "dosage": "50 mg",
+      "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Xanax",
+      "dci": "Alprazolam",
+      "dosage": "0,5 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Tenormine",
+      "dci": "Aténolol",
+      "dosage": "50 mg",
+      "indication": "Hypertension, angine de poitrine et troubles du rythme cardiaque",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Amlor",
+      "dci": "Amlodipine",
+      "dosage": "5 mg",
+      "indication": "Hypertension artérielle",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Nour Sassi\nORL - La Manouba\nPatient : Ines Haddad  Âge : 5 ans\nLe 19/10/2026\nORDONNANCE\n1) Voltarène 50 mg\n1 cp x 2/jour - 14 jours\n2) Xanax 0,5 mg\n1 cp x 3/jour - 7 jours\n3) Tenormine 50 mg\n1 cp matin et soir - 1 mois\n4) Amlor 5 mg\n1 cp x 2/jour - 5 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

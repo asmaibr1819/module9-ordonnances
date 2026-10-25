@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Kardégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "160 mg",
+      "indication": "Prévention des accidents cardiovasculaires (fluidifie le sang)",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Mopral",
+      "dci": "Oméprazole",
+      "dosage": "20 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Voltarène",
+      "dci": "Diclofénac",
+      "dosage": "50 mg",
+      "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Daflon",
+      "dci": "Diosmine/Hespéridine",
+      "dosage": "500 mg",
+      "indication": "Insuffisance veineuse et hémorroïdes",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Salma Mansouri\nORL - La Manouba\nPatient : Rim Sassi  Âge : 11 ans\nLe 15/03/2026\nORDONNANCE\n1) Kardégic 160 mg\n1 sach x 2/jour - 10 jours\n2) Mopral 20 mg\n1 cp le matin - 1 mois\n3) Voltarène 50 mg\n1 cp matin et soir - 5 jours\n4) Daflon 500 mg\n2 cp x 3/jour - 14 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

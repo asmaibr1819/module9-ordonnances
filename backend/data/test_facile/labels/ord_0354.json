@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Motilium",
+      "dci": "Dompéridone",
+      "dosage": "10 mg",
+      "indication": "Nausées, vomissements et ballonnements",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Tranxène",
+      "dci": "Clorazépate",
+      "dosage": "10 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Aerius",
+      "dci": "Desloratadine",
+      "dosage": "5 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Lina Chaabane\nPédiatrie - Ariana\nPatient : Walid Jlassi  Âge : 69 ans\nLe 03/08/2026\nORDONNANCE\n1) Motilium 10 mg\n1 cp matin et soir - 1 mois\n2) Tranxène 10 mg\n1 cp x 2/jour - 3 jours\n3) Aerius 5 mg\n1 cp le matin - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

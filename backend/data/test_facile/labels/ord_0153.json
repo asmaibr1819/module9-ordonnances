@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Tamiflu",
+      "dci": "Oseltamivir",
+      "dosage": "75 mg",
+      "indication": "Grippe (traitement antiviral)",
+      "posologie": "1 gélule par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Daflon",
+      "dci": "Diosmine/Hespéridine",
+      "dosage": "500 mg",
+      "indication": "Insuffisance veineuse et hémorroïdes",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Amarel",
+      "dci": "Glimépiride",
+      "dosage": "2 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Mycostatine",
+      "dci": "Nystatine",
+      "dosage": "100 000 UI/ml",
+      "indication": "Mycoses de la bouche et du tube digestif",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Aymen Haddad\nMédecine interne - Bizerte\nPatient : Bilel Trabelsi  Âge : 38 ans\nLe 02/06/2026\nORDONNANCE\n1) Tamiflu 75 mg\n1 gél/jour - 7 jours\n2) Daflon 500 mg\n1 cp le matin - 14 jours\n3) Amarel 2 mg\n2 cp x 3/jour - 10 jours\n4) Mycostatine 100 000 UI/ml\n1 c.à.s x 3/j - 10 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Solupred",
+      "dci": "Prednisolone",
+      "dosage": "20 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Solupred\n20 mg\nPrednisolone\nBoîte de 8 comprimés\nLot 94600   EXP 03/2029",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

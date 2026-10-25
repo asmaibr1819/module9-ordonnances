@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Zyrtec",
+      "dci": "Cétirizine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Doliprane",
+      "dci": "Paracétamol",
+      "dosage": "1000 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Voltarène",
+      "dci": "Diclofénac",
+      "dosage": "50 mg",
+      "indication": "Douleurs et inflammations (rhumatismes, douleurs musculaires)",
+      "posologie": "1 comprimé le soir",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Imodium",
+      "dci": "Lopéramide",
+      "dosage": "2 mg",
+      "indication": "Diarrhée aiguë",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Nurofen",
+      "dci": "Ibuprofène",
+      "dosage": "400 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Bilel Sassi\nPédiatrie - Ben Arous\nPatient : Salma Sassi  Âge : 27 ans\nLe 12/11/2026\nORDONNANCE\n1) Zyrtec 10 mg\n2 comprimés 3 fois par jour - 7 jours\n2) Doliprane 1000 mg\n1 comprimé le soir - 3 jours\n3) Voltarène 50 mg\n1 comprimé le soir - 7 jours\n4) Imodium 2 mg\n1 comprimé 2 fois par jour - 3 jours\n5) Nurofen 400 mg\n1 comprimé 3 fois par jour - 5 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

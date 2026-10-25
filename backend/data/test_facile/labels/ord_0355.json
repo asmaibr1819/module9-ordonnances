@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Fucidine",
+      "dci": "Acide fusidique",
+      "dosage": "2 %",
+      "indication": "Infections bactériennes de la peau",
+      "posologie": "1 application matin et soir",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Zolpidem Mylan",
+      "dci": "Zolpidem",
+      "dosage": "10 mg",
+      "indication": "Insomnie sévère (courte durée)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Zithromax",
+      "dci": "Azithromycine",
+      "dosage": "250 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Spasfon",
+      "dci": "Phloroglucinol",
+      "dosage": "80 mg",
+      "indication": "Douleurs spasmodiques (ventre, règles)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Tamiflu",
+      "dci": "Oseltamivir",
+      "dosage": "75 mg",
+      "indication": "Grippe (traitement antiviral)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Youssef Haddad\nPédiatrie - Sfax\nPatient : Ines Khelifi  Âge : 62 ans\nLe 19/08/2026\nORDONNANCE\n1) Fucidine 2 %\n1 appl. matin et soir - 7 jours\n2) Zolpidem Mylan 10 mg\n1 cp x 2/jour - 14 jours\n3) Zithromax 250 mg\n1 cp x 3/jour - 7 jours\n4) Spasfon 80 mg\n1 cp x 2/jour - 7 jours\n5) Tamiflu 75 mg\n1 cp x 2/jour - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

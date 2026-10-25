@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Maxidrol",
+      "dci": "Dexaméthasone/Néomycine",
+      "dosage": "0,1 %",
+      "indication": "Inflammation de l'œil avec infection (collyre)",
+      "posologie": "1 application matin et soir",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Aerius",
+      "dci": "Desloratadine",
+      "dosage": "5 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "1 comprimé le matin",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Zyrtec",
+      "dci": "Cétirizine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Tranxène",
+      "dci": "Clorazépate",
+      "dosage": "10 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Aymen Ben Ammar\nORL - Nabeul\nPatient : Mehdi Jlassi  Âge : 61 ans\nLe 06/02/2026\nORDONNANCE\n1) Maxidrol 0,1 %\n1 application matin et soir - 5 jours\n2) Aerius 5 mg\n1 comprimé le matin - 5 jours\n3) Zyrtec 10 mg\n1 comprimé le matin - 3 jours\n4) Tranxène 10 mg\n1 comprimé le matin - 14 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

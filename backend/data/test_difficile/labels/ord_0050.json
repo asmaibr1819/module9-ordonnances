@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Nurofen",
+      "dci": "Ibuprofène",
+      "dosage": "400 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Zolpidem Mylan",
+      "dci": "Zolpidem",
+      "dosage": "10 mg",
+      "indication": "Insomnie sévère (courte durée)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Smecta",
+      "dci": "Diosmectite",
+      "dosage": "3 g",
+      "indication": "Diarrhée",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Karim Trabelsi\nMédecine interne - La Manouba\nPatient : Mehdi Mansouri  Âge : 29 ans\nLe 11/10/2026\nORDONNANCE\n1) Nurofen 400 mg\n1 comprimé 2 fois par jour - 7 jours\n2) Zolpidem Mylan 10 mg\n1 comprimé 2 fois par jour - 3 mois\n3) Smecta 3 g\n1 sachet 2 fois par jour - 5 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

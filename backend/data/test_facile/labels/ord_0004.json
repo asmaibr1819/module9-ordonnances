@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Augmentin",
+      "dci": "Amoxicilline/Acide clavulanique",
+      "dosage": "1 g/125 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Crestor",
+      "dci": "Rosuvastatine",
+      "dosage": "20 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Tramadol Biogaran",
+      "dci": "Tramadol",
+      "dosage": "50 mg",
+      "indication": "Douleurs modérées à intenses",
+      "posologie": "1 gélule par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Efferalgan",
+      "dci": "Paracétamol",
+      "dosage": "1000 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Fucidine",
+      "dci": "Acide fusidique",
+      "dosage": "2 %",
+      "indication": "Infections bactériennes de la peau",
+      "posologie": "1 application matin et soir",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Mansouri\nPédiatrie - Nabeul\nPatient : Ines Chaabane  Âge : 61 ans\nLe 28/07/2026\nORDONNANCE\n1) Augmentin 1 g/125 mg\n1 comprimé 3 fois par jour - 5 jours\n2) Crestor 20 mg\n1 comprimé matin et soir - 5 jours\n3) Tramadol Biogaran 50 mg\n1 gélule par jour - 3 mois\n4) Efferalgan 1000 mg\n1 comprimé le matin - 1 mois\n5) Fucidine 2 %\n1 application matin et soir - 10 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

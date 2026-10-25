@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Brufen",
+      "dci": "Ibuprofène",
+      "dosage": "600 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Brufen\n600 mg\nIbuprofène\nBoîte de 24 comprimés\nLot 66686   EXP 07/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

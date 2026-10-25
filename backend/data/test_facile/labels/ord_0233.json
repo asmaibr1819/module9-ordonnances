@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Clamoxyl",
+      "dci": "Amoxicilline",
+      "dosage": "1 g",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 gélule par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Zyrtec",
+      "dci": "Cétirizine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Smecta",
+      "dci": "Diosmectite",
+      "dosage": "3 g",
+      "indication": "Diarrhée",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Aymen Mansouri\nMédecine générale - Sousse\nPatient : Nour Sassi  Âge : 67 ans\nLe 28/02/2026\nORDONNANCE\n1) Clamoxyl 1 g\n1 gélule par jour - 1 mois\n2) Zyrtec 10 mg\n1 comprimé le matin - 10 jours\n3) Smecta 3 g\n1 comprimé 2 fois par jour - 1 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

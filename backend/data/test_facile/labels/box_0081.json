@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Flagyl",
+      "dci": "Métronidazole",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes et parasitaires",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Flagyl\n500 mg\nMétronidazole\nBoîte de 8 comprimés\nLot 81172   EXP 01/2029",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

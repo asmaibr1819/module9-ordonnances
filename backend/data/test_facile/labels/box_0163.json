@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Tramadol Biogaran",
+      "dci": "Tramadol",
+      "dosage": "50 mg",
+      "indication": "Douleurs modérées à intenses",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Tramadol Biogaran\n50 mg\nTramadol\nBoîte de 30 gélules\nLot 77963   EXP 03/2029",
+  "_meta": {
+    "forme": "gélule"
+  }
+}

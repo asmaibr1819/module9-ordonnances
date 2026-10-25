@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Lasilix",
+      "dci": "Furosémide",
+      "dosage": "40 mg",
+      "indication": "Rétention d'eau (œdèmes) et hypertension",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Myolastan",
+      "dci": "Tétrazépam",
+      "dosage": "50 mg",
+      "indication": "Contractures musculaires douloureuses",
+      "posologie": "1 comprimé le soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Amarel",
+      "dci": "Glimépiride",
+      "dosage": "2 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Daflon",
+      "dci": "Diosmine/Hespéridine",
+      "dosage": "500 mg",
+      "indication": "Insuffisance veineuse et hémorroïdes",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Bétadine",
+      "dci": "Povidone iodée",
+      "dosage": "10 %",
+      "indication": "Antiseptique : désinfection de la peau et des plaies",
+      "posologie": "1 application matin et soir",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Aymen Haddad\nORL - Sousse\nPatient : Salma Ben Ammar  Âge : 45 ans\nLe 01/06/2026\nORDONNANCE\n1) Lasilix 40 mg\n2 cp x 3/jour - 14 jours\n2) Myolastan 50 mg\n1 cp le soir - 3 mois\n3) Amarel 2 mg\n1 cp matin et soir - 3 mois\n4) Daflon 500 mg\n1 cp matin et soir - 10 jours\n5) Bétadine 10 %\n1 appl. matin et soir - 5 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

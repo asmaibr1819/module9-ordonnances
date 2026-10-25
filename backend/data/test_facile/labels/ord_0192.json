@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Maxidrol",
+      "dci": "Dexaméthasone/Néomycine",
+      "dosage": "0,1 %",
+      "indication": "Inflammation de l'œil avec infection (collyre)",
+      "posologie": "1 application matin et soir",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Ciprofloxacine Biogaran",
+      "dci": "Ciprofloxacine",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes, notamment urinaires (antibiotique)",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Mag 2",
+      "dci": "Magnésium",
+      "dosage": "122 mg",
+      "indication": "Carence en magnésium",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Khelifi\nORL - Nabeul\nPatient : Ines Ben Ammar  Âge : 30 ans\nLe 05/07/2026\nORDONNANCE\n1) Maxidrol 0,1 %\n1 application matin et soir - 3 jours\n2) Ciprofloxacine Biogaran 500 mg\n1 comprimé 3 fois par jour - 1 mois\n3) Mag 2 122 mg\n1 comprimé le matin - 14 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

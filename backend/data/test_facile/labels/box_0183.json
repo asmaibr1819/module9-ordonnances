@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Zyrtec",
+      "dci": "Cétirizine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Zyrtec\n10 mg\nCétirizine\nBoîte de 10 comprimés\nLot 60092   EXP 04/2027",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

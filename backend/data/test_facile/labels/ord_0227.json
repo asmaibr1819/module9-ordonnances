@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Motilium",
+      "dci": "Dompéridone",
+      "dosage": "10 mg",
+      "indication": "Nausées, vomissements et ballonnements",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Amlor",
+      "dci": "Amlodipine",
+      "dosage": "5 mg",
+      "indication": "Hypertension artérielle",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Dacryoserum",
+      "dci": "Chlorure de sodium",
+      "dosage": "0,9 %",
+      "indication": "Nettoyage et lavage des yeux",
+      "posologie": "1 application matin et soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Lasilix",
+      "dci": "Furosémide",
+      "dosage": "40 mg",
+      "indication": "Rétention d'eau (œdèmes) et hypertension",
+      "posologie": "1 comprimé le soir",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Rim Chaabane\nCardiologie - Sousse\nPatient : Ines Mansouri  Âge : 46 ans\nLe 23/06/2026\nORDONNANCE\n1) Motilium 10 mg\n2 comprimés 3 fois par jour - 14 jours\n2) Amlor 5 mg\n1 comprimé 2 fois par jour - 7 jours\n3) Dacryoserum 0,9 %\n1 application matin et soir - 3 mois\n4) Lasilix 40 mg\n1 comprimé le soir - 5 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

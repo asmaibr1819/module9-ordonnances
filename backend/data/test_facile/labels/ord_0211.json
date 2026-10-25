@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Tenormine",
+      "dci": "Aténolol",
+      "dosage": "100 mg",
+      "indication": "Hypertension, angine de poitrine et troubles du rythme cardiaque",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "5 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Aymen Jlassi\nMédecine interne - Sousse\nPatient : Yasmine Khelifi  Âge : 15 ans\nLe 11/11/2026\nORDONNANCE\n1) Tenormine 100 mg\n1 cp x 2/jour - 5 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

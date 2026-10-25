@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Mucolator",
+      "dci": "Carbocistéine",
+      "dosage": "750 mg",
+      "indication": "Toux grasse et encombrement des bronches",
+      "posologie": "1 cuillère à soupe 3 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Ciprofloxacine Biogaran",
+      "dci": "Ciprofloxacine",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes, notamment urinaires (antibiotique)",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Tardyferon",
+      "dci": "Sulfate ferreux",
+      "dosage": "80 mg",
+      "indication": "Carence en fer (anémie)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Xanax",
+      "dci": "Alprazolam",
+      "dosage": "0,25 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Hatem Trabelsi\nMédecine interne - Nabeul\nPatient : Walid Trabelsi  Âge : 12 ans\nLe 07/04/2026\nORDONNANCE\n1) Mucolator 750 mg\n1 c.à.s x 3/j - 1 mois\n2) Ciprofloxacine Biogaran 500 mg\n1 cp le matin - 10 jours\n3) Tardyferon 80 mg\n2 cp x 3/jour - 10 jours\n4) Xanax 0,25 mg\n1 cp matin et soir - 3 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

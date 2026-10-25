@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Levothyrox",
+      "dci": "Lévothyroxine",
+      "dosage": "75 µg",
+      "indication": "Insuffisance thyroïdienne",
+      "posologie": "1 comprimé 3 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Dacryoserum",
+      "dci": "Chlorure de sodium",
+      "dosage": "0,9 %",
+      "indication": "Nettoyage et lavage des yeux",
+      "posologie": "1 application matin et soir",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Amira Ben Salah\nMédecine interne - Ben Arous\nPatient : Ines Haddad  Âge : 61 ans\nLe 08/10/2026\nORDONNANCE\n1) Levothyrox 75 µg\n1 comprimé 3 fois par jour - 5 jours\n2) Dacryoserum 0,9 %\n1 application matin et soir - 14 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

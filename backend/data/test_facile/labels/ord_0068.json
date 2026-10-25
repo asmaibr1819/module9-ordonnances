@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Zithromax",
+      "dci": "Azithromycine",
+      "dosage": "250 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Clamoxyl",
+      "dci": "Amoxicilline",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé le matin",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Doliprane",
+      "dci": "Paracétamol",
+      "dosage": "1000 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé le soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Lasilix",
+      "dci": "Furosémide",
+      "dosage": "40 mg",
+      "indication": "Rétention d'eau (œdèmes) et hypertension",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Zovirax",
+      "dci": "Aciclovir",
+      "dosage": "400 mg",
+      "indication": "Herpès et zona",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Lina Gharbi\nCardiologie - Ben Arous\nPatient : Karim Khelifi  Âge : 38 ans\nLe 17/07/2026\nORDONNANCE\n1) Zithromax 250 mg\n1 cp x 2/jour - 14 jours\n2) Clamoxyl 500 mg\n1 cp le matin - 5 jours\n3) Doliprane 1000 mg\n1 cp le soir - 1 mois\n4) Lasilix 40 mg\n1 cp matin et soir - 3 mois\n5) Zovirax 400 mg\n2 cp x 3/jour - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

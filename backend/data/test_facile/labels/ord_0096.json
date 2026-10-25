@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Imodium",
+      "dci": "Lopéramide",
+      "dosage": "2 mg",
+      "indication": "Diarrhée aiguë",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Solupred",
+      "dci": "Prednisolone",
+      "dosage": "20 mg",
+      "indication": "Inflammations et allergies sévères (corticoïde)",
+      "posologie": "1 comprimé le matin",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Uvédose",
+      "dci": "Vitamine D3",
+      "dosage": "100 000 UI",
+      "indication": "Carence en vitamine D",
+      "posologie": "1 comprimé le matin",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Hatem Mansouri\nMédecine interne - Bizerte\nPatient : Ines Trabelsi  Âge : 19 ans\nLe 26/10/2026\nORDONNANCE\n1) Imodium 2 mg\n1 comprimé 2 fois par jour - 14 jours\n2) Solupred 20 mg\n1 comprimé le matin - 3 jours\n3) Uvédose 100 000 UI\n1 comprimé le matin - 7 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Module 9 – Lecture d'ordonnances</title>
+<style>
+ body{font-family:system-ui,sans-serif;max-width:860px;margin:2rem auto;padding:0 1rem;color:#1f2937}
+ h1{font-size:1.4rem} .box{border:1px solid #d1d5db;border-radius:10px;padding:1rem;margin:1rem 0}
+ button{background:#0f766e;color:#fff;border:0;border-radius:8px;padding:.6rem 1.1rem;cursor:pointer;font-size:1rem}
+ button:disabled{opacity:.5} textarea{width:100%;height:130px;font-family:monospace}
+ .med{border-left:4px solid #0f766e;background:#f0fdfa;padding:.6rem .9rem;margin:.6rem 0;border-radius:6px}
+ .med.warn{border-color:#d97706;background:#fffbeb} .tag{font-size:.75rem;background:#e5e7eb;border-radius:4px;padding:1px 6px}
+ .err{color:#b91c1c} .note{color:#6b7280;font-size:.85rem}
+</style></head><body>
+<h1>Lecture d'ordonnances et de boîtes de médicaments</h1>
+<div class="box"><b>1. Photo</b><br>
+ <input type="file" id="file" accept="image/*">
+ <select id="engine"><option value="">moteur par défaut</option><option>tesseract</option><option>vlm</option><option>lora</option></select>
+ <button id="scan">Analyser la photo</button></div>
+<div class="box"><b>2. Texte lu (modifiable)</b><br>
+ <textarea id="txt" placeholder="Le texte extrait apparaît ici ; tu peux aussi coller un texte."></textarea><br>
+ <button id="analyze">Analyser le texte</button></div>
+<div id="out"></div>
+<script>
+const $=id=>document.getElementById(id), out=$('out');
+function show(f){
+  out.innerHTML=`<div class="box"><b>Résultat</b> <span class="tag">${f.type}</span> <span class="tag">${f.mode}</span> <span class="tag">${f.latence_ms} ms</span>`+
+  f.medicaments.map(m=>`<div class="med ${m.verifie_referentiel?'':'warn'}"><b>${m.nom}</b> ${m.dosage||''} — <i>${m.dci||''}</i><br>
+    <b>Sert à :</b> ${m.indication||'non renseigné'}<br>${m.posologie?'<b>Posologie :</b> '+m.posologie:''} ${m.duree?'— '+m.duree:''}
+    ${m.verifie_referentiel?'':'<br><span class="err">À vérifier avec un pharmacien</span>'}</div>`).join('')+
+  (f.a_verifier.length?`<p class="err"><b>À vérifier :</b> ${f.a_verifier.join(' ; ')}</p>`:'')+
+  `<p class="note">${f.avertissement}</p></div>`;
+}
+async function call(url,opt,btn){btn.disabled=true;out.innerHTML='…';
+  try{const r=await fetch(url,opt);const j=await r.json();if(!r.ok)throw new Error(j.detail||r.status);return j}
+  catch(e){out.innerHTML=`<p class="err">Erreur : ${e.message}</p>`}finally{btn.disabled=false}}
+$('scan').onclick=async()=>{const f=$('file').files[0];if(!f)return out.innerHTML='<p class="err">Choisis une image.</p>';
+  const fd=new FormData();fd.append('file',f);const e=$('engine').value;
+  const o=await call('/api/ocr'+(e?'?engine='+e:''),{method:'POST',body:fd},$('scan'));if(!o)return;
+  $('txt').value=o.texte;$('analyze').click()};
+$('analyze').onclick=async()=>{const f=await call('/api/analyze',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({texte:$('txt').value})},$('analyze'));if(f)show(f)};
+</script></body></html>

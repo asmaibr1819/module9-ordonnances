@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Coversyl",
+      "dci": "Périndopril",
+      "dosage": "10 mg",
+      "indication": "Hypertension artérielle et insuffisance cardiaque",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Deroxat",
+      "dci": "Paroxétine",
+      "dosage": "20 mg",
+      "indication": "Dépression et troubles anxieux",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Tenormine",
+      "dci": "Aténolol",
+      "dosage": "100 mg",
+      "indication": "Hypertension, angine de poitrine et troubles du rythme cardiaque",
+      "posologie": "1 comprimé le matin",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Uvédose",
+      "dci": "Vitamine D3",
+      "dosage": "100 000 UI",
+      "indication": "Carence en vitamine D",
+      "posologie": "1 comprimé le matin",
+      "duree": "14 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Youssef Gharbi\nDermatologie - Sfax\nPatient : Hatem Ben Salah  Âge : 15 ans\nLe 20/05/2026\nORDONNANCE\n1) Coversyl 10 mg\n1 comprimé 2 fois par jour - 10 jours\n2) Deroxat 20 mg\n1 comprimé matin et soir - 3 mois\n3) Tenormine 100 mg\n1 comprimé le matin - 7 jours\n4) Uvédose 100 000 UI\n1 comprimé le matin - 14 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

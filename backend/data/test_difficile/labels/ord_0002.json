@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Aspégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Tramadol Biogaran",
+      "dci": "Tramadol",
+      "dosage": "50 mg",
+      "indication": "Douleurs modérées à intenses",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Imodium",
+      "dci": "Lopéramide",
+      "dosage": "2 mg",
+      "indication": "Diarrhée aiguë",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Clarityne",
+      "dci": "Loratadine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Panadol",
+      "dci": "Paracétamol",
+      "dosage": "500 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Amira Haddad\nMédecine générale - Sousse\nPatient : Yasmine Ben Salah  Âge : 30 ans\nLe 22/01/2026\nORDONNANCE\n1) Aspégic 500 mg\n1 comprimé 2 fois par jour - 3 mois\n2) Tramadol Biogaran 50 mg\n1 comprimé le matin - 10 jours\n3) Imodium 2 mg\n1 comprimé le matin - 1 mois\n4) Clarityne 10 mg\n2 comprimés 3 fois par jour - 1 mois\n5) Panadol 500 mg\n1 comprimé 2 fois par jour - 1 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

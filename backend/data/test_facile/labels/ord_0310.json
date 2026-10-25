@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Tenormine",
+      "dci": "Aténolol",
+      "dosage": "100 mg",
+      "indication": "Hypertension, angine de poitrine et troubles du rythme cardiaque",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Nurofen",
+      "dci": "Ibuprofène",
+      "dosage": "200 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "1 comprimé le soir",
+      "duree": "10 jours"
+    },
+    {
+      "nom": "Oroken",
+      "dci": "Céfixime",
+      "dosage": "200 mg",
+      "indication": "Infections bactériennes ORL et respiratoires (antibiotique)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Amarel",
+      "dci": "Glimépiride",
+      "dosage": "2 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé le soir",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Coversyl",
+      "dci": "Périndopril",
+      "dosage": "5 mg",
+      "indication": "Hypertension artérielle et insuffisance cardiaque",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Lina Sassi\nMédecine générale - Bizerte\nPatient : Aymen Ben Salah  Âge : 52 ans\nLe 05/03/2026\nORDONNANCE\n1) Tenormine 100 mg\n1 cp x 2/jour - 3 mois\n2) Nurofen 200 mg\n1 cp le soir - 10 jours\n3) Oroken 200 mg\n2 cp x 3/jour - 14 jours\n4) Amarel 2 mg\n1 cp le soir - 14 jours\n5) Coversyl 5 mg\n2 cp x 3/jour - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

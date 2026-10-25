@@ -1,0 +1,19 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Tranxène",
+      "dci": "Clorazépate",
+      "dosage": "10 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Khelifi\nMédecine interne - Sfax\nPatient : Amira Khelifi  Âge : 49 ans\nLe 14/10/2026\nORDONNANCE\n1) Tranxène 10 mg\n1 comprimé 2 fois par jour - 10 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

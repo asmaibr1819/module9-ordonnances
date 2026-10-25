@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Spasfon",
+      "dci": "Phloroglucinol",
+      "dosage": "80 mg",
+      "indication": "Douleurs spasmodiques (ventre, règles)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Spasfon\n80 mg\nPhloroglucinol\nBoîte de 10 comprimés\nLot 92847   EXP 10/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

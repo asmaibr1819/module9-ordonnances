@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Doliprane",
+      "dci": "Paracétamol",
+      "dosage": "1000 mg",
+      "indication": "Douleurs et fièvre",
+      "posologie": "1 comprimé le matin",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Flagyl",
+      "dci": "Métronidazole",
+      "dosage": "250 mg",
+      "indication": "Infections bactériennes et parasitaires",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Clamoxyl",
+      "dci": "Amoxicilline",
+      "dosage": "500 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 gélule par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Brufen",
+      "dci": "Ibuprofène",
+      "dosage": "600 mg",
+      "indication": "Douleurs, fièvre et inflammation",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Salma Gharbi\nORL - Nabeul\nPatient : Bilel Ben Ammar  Âge : 25 ans\nLe 10/03/2026\nORDONNANCE\n1) Doliprane 1000 mg\n1 cp le matin - 1 mois\n2) Flagyl 250 mg\n2 cp x 3/jour - 7 jours\n3) Clamoxyl 500 mg\n1 gél/jour - 7 jours\n4) Brufen 600 mg\n2 cp x 3/jour - 7 jours",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

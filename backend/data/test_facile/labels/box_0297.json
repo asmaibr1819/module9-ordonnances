@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Coversyl",
+      "dci": "Périndopril",
+      "dosage": "5 mg",
+      "indication": "Hypertension artérielle et insuffisance cardiaque",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Coversyl\n5 mg\nPérindopril\nBoîte de 10 comprimés\nLot 44732   EXP 02/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

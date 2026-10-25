@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Mag 2",
+      "dci": "Magnésium",
+      "dosage": "122 mg",
+      "indication": "Carence en magnésium",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Mag 2\n122 mg\nMagnésium\nBoîte de 12 ampoules\nLot 97351   EXP 09/2028",
+  "_meta": {
+    "forme": "ampoule"
+  }
+}

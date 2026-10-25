@@ -1,0 +1,51 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Mag 2",
+      "dci": "Magnésium",
+      "dosage": "122 mg",
+      "indication": "Carence en magnésium",
+      "posologie": "1 comprimé le matin",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Flagyl",
+      "dci": "Métronidazole",
+      "dosage": "250 mg",
+      "indication": "Infections bactériennes et parasitaires",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Ventoline",
+      "dci": "Salbutamol",
+      "dosage": "100 µg",
+      "indication": "Crises d'asthme (dilate les bronches)",
+      "posologie": "2 bouffées en cas de crise",
+      "duree": "3 jours"
+    },
+    {
+      "nom": "Zyrtec",
+      "dci": "Cétirizine",
+      "dosage": "10 mg",
+      "indication": "Allergies (rhume des foins, urticaire)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Tranxène",
+      "dci": "Clorazépate",
+      "dosage": "10 mg",
+      "indication": "Anxiété (traitement de courte durée)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Jlassi\nDermatologie - La Manouba\nPatient : Nour Sassi  Âge : 39 ans\nLe 01/03/2026\nORDONNANCE\n1) Mag 2 122 mg\n1 cp le matin - 7 jours\n2) Flagyl 250 mg\n1 cp x 2/jour - 1 mois\n3) Ventoline 100 µg\n2 bouffées si crise - 3 jours\n4) Zyrtec 10 mg\n2 cp x 3/jour - 1 mois\n5) Tranxène 10 mg\n1 cp x 2/jour - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Levothyrox",
+      "dci": "Lévothyroxine",
+      "dosage": "50 µg",
+      "indication": "Insuffisance thyroïdienne",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Levothyrox\n50 µg\nLévothyroxine\nBoîte de 24 comprimés\nLot 19003   EXP 09/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

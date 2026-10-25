@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Amarel",
+      "dci": "Glimépiride",
+      "dosage": "4 mg",
+      "indication": "Diabète de type 2",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Motilium",
+      "dci": "Dompéridone",
+      "dosage": "10 mg",
+      "indication": "Nausées, vomissements et ballonnements",
+      "posologie": "1 comprimé matin et soir",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Mehdi Khelifi\nDermatologie - Ariana\nPatient : Bilel Ben Ammar  Âge : 66 ans\nLe 28/10/2026\nORDONNANCE\n1) Amarel 4 mg\n1 cp matin et soir - 1 mois\n2) Motilium 10 mg\n1 cp matin et soir - 1 mois",
+  "_meta": {
+    "ecriture": "manuscrite",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Mopral",
+      "dci": "Oméprazole",
+      "dosage": "20 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "1 gélule par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Tahor",
+      "dci": "Atorvastatine",
+      "dosage": "20 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": "1 comprimé le soir",
+      "duree": "1 mois"
+    },
+    {
+      "nom": "Imodium",
+      "dci": "Lopéramide",
+      "dosage": "2 mg",
+      "indication": "Diarrhée aiguë",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Zithromax",
+      "dci": "Azithromycine",
+      "dosage": "250 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "1 comprimé le soir",
+      "duree": "7 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Sami Bouzid\nCardiologie - Nabeul\nPatient : Bilel Jlassi  Âge : 10 ans\nLe 17/08/2026\nORDONNANCE\n1) Mopral 20 mg\n1 gélule par jour - 14 jours\n2) Tahor 20 mg\n1 comprimé le soir - 1 mois\n3) Imodium 2 mg\n1 comprimé 2 fois par jour - 7 jours\n4) Zithromax 250 mg\n1 comprimé le soir - 7 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

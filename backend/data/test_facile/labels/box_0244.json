@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Crestor",
+      "dci": "Rosuvastatine",
+      "dosage": "20 mg",
+      "indication": "Cholestérol élevé",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Crestor\n20 mg\nRosuvastatine\nBoîte de 10 comprimés\nLot 75040   EXP 01/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

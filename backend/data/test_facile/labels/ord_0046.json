@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Augmentin",
+      "dci": "Amoxicilline/Acide clavulanique",
+      "dosage": "500 mg/62,5 mg",
+      "indication": "Infections bactériennes (antibiotique)",
+      "posologie": "2 comprimés 3 fois par jour",
+      "duree": "14 jours"
+    },
+    {
+      "nom": "Coversyl",
+      "dci": "Périndopril",
+      "dosage": "5 mg",
+      "indication": "Hypertension artérielle et insuffisance cardiaque",
+      "posologie": "1 comprimé le soir",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Nour Ben Ammar\nDermatologie - Bizerte\nPatient : Nour Hamdi  Âge : 60 ans\nLe 26/12/2026\nORDONNANCE\n1) Augmentin 500 mg/62,5 mg\n2 comprimés 3 fois par jour - 14 jours\n2) Coversyl 5 mg\n1 comprimé le soir - 10 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Mycostatine",
+      "dci": "Nystatine",
+      "dosage": "100 000 UI/ml",
+      "indication": "Mycoses de la bouche et du tube digestif",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Mycostatine\n100 000 UI/ml\nNystatine\nBoîte de 20 suspensions\nLot 10088   EXP 01/2029",
+  "_meta": {
+    "forme": "suspension"
+  }
+}

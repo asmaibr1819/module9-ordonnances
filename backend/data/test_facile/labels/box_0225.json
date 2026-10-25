@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Zovirax",
+      "dci": "Aciclovir",
+      "dosage": "400 mg",
+      "indication": "Herpès et zona",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Zovirax\n400 mg\nAciclovir\nBoîte de 20 comprimés\nLot 32829   EXP 06/2028",
+  "_meta": {
+    "forme": "comprimé"
+  }
+}

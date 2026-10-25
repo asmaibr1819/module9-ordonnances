@@ -1,0 +1,35 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Kardégic",
+      "dci": "Acide acétylsalicylique",
+      "dosage": "75 mg",
+      "indication": "Prévention des accidents cardiovasculaires (fluidifie le sang)",
+      "posologie": "1 sachet 2 fois par jour",
+      "duree": "5 jours"
+    },
+    {
+      "nom": "Mopral",
+      "dci": "Oméprazole",
+      "dosage": "10 mg",
+      "indication": "Reflux gastro-œsophagien et ulcères d'estomac (réduit l'acidité)",
+      "posologie": "1 gélule par jour",
+      "duree": "3 mois"
+    },
+    {
+      "nom": "Spasfon",
+      "dci": "Phloroglucinol",
+      "dosage": "80 mg",
+      "indication": "Douleurs spasmodiques (ventre, règles)",
+      "posologie": "1 comprimé le matin",
+      "duree": "10 jours"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Salma Hamdi\nMédecine générale - Tunis\nPatient : Lina Hamdi  Âge : 64 ans\nLe 26/04/2026\nORDONNANCE\n1) Kardégic 75 mg\n1 sachet 2 fois par jour - 5 jours\n2) Mopral 10 mg\n1 gélule par jour - 3 mois\n3) Spasfon 80 mg\n1 comprimé le matin - 10 jours",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

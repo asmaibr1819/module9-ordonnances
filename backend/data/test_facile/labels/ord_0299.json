@@ -1,0 +1,27 @@
+{
+  "type": "ordonnance",
+  "medicaments": [
+    {
+      "nom": "Tramadol Biogaran",
+      "dci": "Tramadol",
+      "dosage": "50 mg",
+      "indication": "Douleurs modérées à intenses",
+      "posologie": "1 gélule par jour",
+      "duree": "7 jours"
+    },
+    {
+      "nom": "Fluconazole Arrow",
+      "dci": "Fluconazole",
+      "dosage": "150 mg",
+      "indication": "Infections fongiques (candidose)",
+      "posologie": "1 comprimé 2 fois par jour",
+      "duree": "1 mois"
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Dr Lina Hamdi\nCardiologie - Tunis\nPatient : Mehdi Sassi  Âge : 71 ans\nLe 25/05/2026\nORDONNANCE\n1) Tramadol Biogaran 50 mg\n1 gélule par jour - 7 jours\n2) Fluconazole Arrow 150 mg\n1 comprimé 2 fois par jour - 1 mois",
+  "_meta": {
+    "ecriture": "imprimee",
+    "patient_fictif": true
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "boite",
+  "medicaments": [
+    {
+      "nom": "Ventoline",
+      "dci": "Salbutamol",
+      "dosage": "100 µg",
+      "indication": "Crises d'asthme (dilate les bronches)",
+      "posologie": null,
+      "duree": null
+    }
+  ],
+  "a_verifier": [],
+  "texte_lu": "Ventoline\n100 µg\nSalbutamol\nBoîte de 16 sprays\nLot 63773   EXP 08/2027",
+  "_meta": {
+    "forme": "spray"
+  }
+}
