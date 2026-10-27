@@ -1,0 +1,287 @@
+
+@if (loading()) {
+  <section
+    class="ticket tone-neutral"
+    aria-busy="true"
+    aria-live="polite"
+    data-testid="loading"
+  >
+    <div class="verdict">
+      <h2 class="verdict-title muted">Vérification en cours</h2>
+      <p class="verdict-lead">
+        Stock, équivalents, risques et choix de la pharmacie.
+      </p>
+
+      <ol class="rail" aria-label="Contrôles en cours">
+        @for (c of pendingChecks; track c.key; let i = $index) {
+          <li class="node pending" [style.--i]="i">
+            <span class="bubble"></span>
+            <span class="node-title">{{ c.title }}</span>
+            <span class="node-detail">{{ c.detail }}</span>
+          </li>
+        }
+      </ol>
+    </div>
+  </section>
+}
+
+@if (visibleResult(); as r) {
+  @if (verdict(); as v) {
+    <section
+      class="ticket"
+      [class]="'ticket tone-' + v.tone"
+      aria-live="polite"
+      data-testid="result"
+    >
+      <div class="verdict">
+        <p class="order-ref">Commande {{ r.order_id }}</p>
+
+        <h2 class="verdict-title" data-testid="status">
+          {{ v.title }}
+        </h2>
+
+        <p class="verdict-lead">{{ v.lead }}</p>
+
+        <ol class="rail" aria-label="Contrôles réalisés">
+          @for (c of checks(); track c.key; let i = $index) {
+            <li
+              class="node"
+              [class]="'node ' + c.state"
+              [style.--i]="i"
+            >
+              <span class="bubble">
+                <app-icon [name]="iconFor(c.state)" [size]="18" />
+                <span class="sr-only">{{ wordFor(c.state) }}</span>
+              </span>
+
+              <span class="node-title">{{ c.title }}</span>
+              <span class="node-detail">{{ c.detail }}</span>
+            </li>
+          }
+        </ol>
+      </div>
+
+      <div class="perforation" aria-hidden="true"></div>
+
+      <div class="details">
+        <div class="pair">
+          <div class="block" data-testid="requested">
+            <h3>Demandé</h3>
+
+            <p class="main">
+              {{ r.original_product.dci }}
+              {{ r.original_product.dosage }}
+            </p>
+
+            <p
+              class="sub"
+              [class.bad]="!r.original_product.available"
+            >
+              {{
+                r.original_product.available
+                  ? 'En stock'
+                  : 'Indisponible'
+              }}
+            </p>
+          </div>
+
+          @if (r.proposed_substitute; as sub) {
+            <div class="block highlight" data-testid="substitute">
+              <h3>Proposé</h3>
+
+              <p class="main">{{ sub.brand }}</p>
+
+              <p class="sub">
+                {{ sub.dci }} {{ sub.dosage }},
+                {{ sub.stock }} boîtes en stock
+              </p>
+
+              <p class="rule">Équivalence : {{ sub.rule }}</p>
+            </div>
+          }
+
+          @if (r.assigned_pharmacy; as ph) {
+            <div class="block" data-testid="pharmacy">
+              <h3>Pharmacie assignée</h3>
+
+              <p class="main">{{ ph.name }}</p>
+              <p class="sub">À {{ distance() }} km du patient</p>
+
+              <div
+                class="meter"
+                role="meter"
+                aria-label="Couverture du stock"
+                aria-valuemin="0"
+                aria-valuemax="100"
+                [attr.aria-valuenow]="stockPercent()"
+              >
+                <span
+                  class="meter-fill"
+                  [style.width.%]="stockPercent()"
+                ></span>
+              </div>
+
+              <p class="rule">
+                Couverture du stock : {{ stockPercent() }} %
+              </p>
+            </div>
+          }
+        </div>
+
+        @if (r.risk_alerts.length > 0) {
+          <div class="alerts" data-testid="alerts">
+            <h3>Alertes de risque</h3>
+
+            <ul>
+              @for (a of r.risk_alerts; track a.code) {
+                <li [class]="'alert sev-' + a.severity.toLowerCase()">
+                  <span class="alert-icon">
+                    <app-icon [name]="alertIcon(a)" [size]="16" />
+                  </span>
+
+                  <div>
+                    <p class="alert-title">
+                      {{ alertTitle(a) }}
+                      <span class="sev">
+                        {{ severityLabel(a) }}
+                      </span>
+                    </p>
+
+                    <p class="alert-text">{{ a.message }}</p>
+                  </div>
+                </li>
+              }
+            </ul>
+          </div>
+        }
+
+        @if (r.justification; as j) {
+          <p class="justification">{{ j }}</p>
+        }
+      </div>
+
+      <footer class="actions-bar">
+        @if (hasCritical()) {
+          <div class="critical-warning" role="alert">
+            <strong>Attention : alerte critique détectée</strong>
+            <p>
+              L'acceptation et la substitution sont bloquées.
+              Le pharmacien doit examiner le risque et décider de la suite.
+            </p>
+          </div>
+        }
+
+        @if (requiresJustification()) {
+          <div class="justification-form">
+            <label for="pharmacist-justification">
+              Justification du pharmacien *
+            </label>
+
+            <textarea
+              id="pharmacist-justification"
+              rows="3"
+              [value]="justification()"
+              (input)="justification.set($any($event.target).value)"
+              placeholder="Expliquez votre décision..."
+              required
+            ></textarea>
+
+            @if (!justification().trim()) {
+              <p class="hint">
+                Saisissez une justification avant de confirmer.
+              </p>
+            }
+          </div>
+        }
+
+        <div class="actions">
+          
+<button
+  type="button"
+  class="btn accept"
+  [disabled]="!canAccept()"
+  (click)="selectDecision('ACCEPTED')"
+>
+  Accepter
+</button>
+
+
+          
+<button
+  type="button"
+  class="btn substitute"
+  [disabled]="!canSubstitute()"
+  (click)="selectDecision('SUBSTITUTED')"
+>
+  Substituer
+</button>
+
+
+          <button
+            type="button"
+            class="btn refuse"
+            (click)="selectDecision('REFUSED')"
+          >
+            Refuser
+          </button>
+        </div>
+
+        @if (selectedDecision(); as decision) {
+          <div class="decision-confirmation">
+            <p>
+              Décision sélectionnée :
+              <strong>
+                @switch (decision) {
+                  @case ('ACCEPTED') { Acceptation }
+                  @case ('SUBSTITUTED') { Substitution }
+                  @case ('REFUSED') { Refus }
+                }
+              </strong>
+            </p>
+
+            <button
+              type="button"
+              class="btn confirm"
+              [disabled]="!canSubmitDecision()"
+              (click)="confirmDecision()"
+            >
+              Confirmer la décision
+            </button>
+
+            <button
+              type="button"
+              class="btn cancel"
+              (click)="selectedDecision.set(null)"
+            >
+              Annuler
+            </button>
+          </div>
+        }
+
+        @if (hint()) {
+          <p class="hint">{{ hint() }}</p>
+        }
+
+        <p class="hint">
+          Le pharmacien reste décisionnaire :
+          ce module l'assiste, il ne le remplace pas.
+        </p>
+      </footer>
+    </section>
+  }
+}
+
+@if (showEmpty()) {
+  <section class="empty" data-testid="empty">
+    <span class="empty-icon">
+      <app-icon name="shield" [size]="26" />
+    </span>
+
+    <h2>Aucune commande en cours</h2>
+
+    <p>
+      Choisissez un scénario ou saisissez une commande,
+      puis lancez la vérification. Le résultat s'affichera ici.
+    </p>
+  </section>
+}

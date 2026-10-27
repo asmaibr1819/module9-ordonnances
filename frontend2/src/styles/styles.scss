@@ -1,0 +1,56 @@
+﻿@use 'colors' as *;
+
+:root {
+  /* Core Palette */
+  --color-primary: #{$color-primary};
+  --color-primary-hover: #{$color-primary-hover};
+  --color-primary-subtle: #{$color-primary-subtle};
+  --color-secondary: #{$color-secondary};
+  
+  /* Surfaces & Backgrounds */
+  --color-bg-main: #{$color-bg-main};
+  --color-surface: #{$color-surface};
+  
+  /* Typography */
+  --color-text-primary: #{$color-text-primary};
+  --color-text-secondary: #{$color-text-secondary};
+  --color-text-muted: #{$color-text-muted};
+  
+  /* Borders */
+  --color-border: #{$color-border};
+  --color-border-strong: #{$color-border-strong};
+  
+  /* Semantic Status */
+  --color-success: #{$color-success};
+  --color-success-subtle: #{$color-success-subtle};
+  --color-warning: #{$color-warning};
+  --color-warning-subtle: #{$color-warning-subtle};
+  --color-danger: #{$color-danger};
+  --color-danger-subtle: #{$color-danger-subtle};
+  --color-info: #{$color-info};
+  --color-info-subtle: #{$color-info-subtle};
+
+  /* Interactivity */
+  --color-focus-ring: rgba(21, 94, 117, 0.25);
+  
+  /* Dimensions & Spacing */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-full: 9999px;
+  
+  --transition-base: 150ms ease;
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  
+  --btn-height-md: 40px;
+  --btn-height-sm: 32px;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: var(--color-bg-main);
+  color: var(--color-text-primary);
+  -webkit-font-smoothing: antialiased;
+}

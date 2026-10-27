@@ -1,0 +1,110 @@
+
+<div class="workspace" data-testid="workspace">
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">MED</span>
+
+      <div class="brand-text">
+        <strong>MedRAG</strong>
+        <span>Espace pharmacie</span>
+      </div>
+    </div>
+
+    <div class="topbar-actions">
+      <button
+        type="button"
+        class="api-pill"
+        [class.online]="apiOnline() === true"
+        [class.offline]="apiOnline() === false"
+        (click)="checkApi()"
+        title="Revérifier la connexion à l'API"
+        data-testid="api-status"
+        [disabled]="loading()"
+      >
+        <span class="dot" aria-hidden="true"></span>
+        {{ apiLabel() }}
+      </button>
+
+      <a class="patient-link" routerLink="/">
+        Assistant patient
+      </a>
+    </div>
+  </header>
+
+  <main class="page">
+    <header class="page-head">
+      <div>
+        <h1>Espace pharmacien</h1>
+        <p>
+          Vérifiez les commandes transmises par la plateforme avant de les
+          dispenser.
+        </p>
+      </div>
+    </header>
+
+    @if (error(); as message) {
+      <div class="error" role="alert" data-testid="error">
+        <app-icon name="alert" [size]="20" />
+        <p>{{ message }}</p>
+      </div>
+    }
+
+    <div class="layout">
+      <app-order-form
+        [loading]="loading()"
+        (submitted)="verify($event)"
+      />
+
+      <div class="stage">
+        <app-validation-result
+          [result]="result()"
+          [loading]="loading()"
+          (decided)="record($event)"
+        />
+
+        @if (log().length > 0) {
+          <section
+            class="history"
+            data-testid="log"
+            aria-labelledby="history-title"
+          >
+            <h2 id="history-title">Décisions de cette session</h2>
+
+            <ul>
+              @for (entry of log(); track entry.at) {
+                <li>
+                  <span
+                    class="pill"
+                    [class]="'pill ' + entry.decision.toLowerCase()"
+                  >
+                    {{ label(entry.decision) }}
+                  </span>
+
+                  <span class="ref">
+                    {{ entry.orderId }}
+                  </span>
+
+                  <time class="time">
+                    {{ entry.at | date: 'dd/MM/yyyy HH:mm' }}
+                  </time>
+
+                  @if (entry.justification) {
+                    <p class="decision-justification">
+                      <strong>Justification :</strong>
+                      {{ entry.justification }}
+                    </p>
+                  }
+                </li>
+              }
+            </ul>
+
+            <p class="note">
+              Ces décisions restent dans cette page. Elles ne sont pas encore
+              enregistrées sur le serveur.
+            </p>
+          </section>
+        }
+      </div>
+    </div>
+  </main>
+</div>

@@ -1,0 +1,31 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-store/
+
+# Angular
+/dist
+/out-tsc
+/.angular
+coverage/
+.e2e/
+
+# Environment
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py.class
+.venv/
+venv/
+backend/.venv/
+
+# OS
+.DS_Store
+Thumbs.db

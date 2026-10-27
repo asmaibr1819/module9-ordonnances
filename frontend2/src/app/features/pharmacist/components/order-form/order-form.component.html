@@ -1,0 +1,102 @@
+<section class="slip" aria-labelledby="slip-title">
+  <header class="slip-head">
+    <span class="slip-icon"><app-icon name="clipboard" [size]="20" /></span>
+    <div>
+      <h2 id="slip-title">Commande à vérifier</h2>
+      <p>Telle qu'elle arrive de la plateforme patient.</p>
+    </div>
+  </header>
+
+  <div class="scenarios" role="group" aria-label="Scénarios de démonstration">
+    <p class="scenarios-title"><app-icon name="zap" [size]="14" /> Scénarios de démonstration</p>
+    <div class="scenario-list">
+      @for (s of scenarios; track s.label) {
+        <button
+          type="button"
+          class="scenario"
+          [class.active]="activeScenario === s.label"
+          [attr.aria-pressed]="activeScenario === s.label"
+          (click)="applyScenario(s)"
+        >
+          {{ s.label }}
+        </button>
+      }
+    </div>
+  </div>
+
+  <form (ngSubmit)="submit()" #f="ngForm" novalidate>
+    <fieldset>
+      <legend>Médicament</legend>
+      <div class="grid">
+        <label class="wide">
+          <span>Numéro de commande</span>
+          <input name="orderId" [(ngModel)]="values.orderId" required />
+        </label>
+        <label>
+          <span>Substance active (DCI)</span>
+          <input name="dci" [(ngModel)]="values.dci" required />
+        </label>
+        <label>
+          <span>Dosage</span>
+          <input name="dosage" [(ngModel)]="values.dosage" required />
+        </label>
+        <label>
+          <span>Forme</span>
+          <input name="form" [(ngModel)]="values.form" required />
+        </label>
+        <label>
+          <span>Quantité (boîtes)</span>
+          <input name="quantity" type="number" min="1" [(ngModel)]="values.quantity" required />
+        </label>
+        <label class="wide">
+          <span>Marque demandée <small>facultatif</small></span>
+          <input name="brand" [(ngModel)]="values.brand" placeholder="Laisser vide pour toute marque" />
+        </label>
+      </div>
+    </fieldset>
+
+    <fieldset>
+      <legend>Patient</legend>
+      <div class="grid">
+        <label>
+          <span>Âge</span>
+          <input name="age" type="number" min="0" max="120" [(ngModel)]="values.age" />
+        </label>
+        <div class="switch-cell">
+          <label class="switch">
+            <input type="checkbox" role="switch" name="pregnancy" [(ngModel)]="values.pregnancy" />
+            <span class="track" aria-hidden="true"></span>
+            <span>Enceinte</span>
+          </label>
+        </div>
+        <div class="wide field">
+          <label for="allergies-input">Allergies</label>
+          <app-chip-input inputId="allergies-input" [(values)]="values.allergies" placeholder="Ex. pénicilline, puis Entrée" />
+        </div>
+        <div class="wide field">
+          <label for="treatments-input">Traitements en cours</label>
+          <app-chip-input inputId="treatments-input" [(values)]="values.treatments" placeholder="Ex. warfarine, puis Entrée" />
+        </div>
+      </div>
+
+      <details class="geo">
+        <summary>Position du patient</summary>
+        <div class="grid">
+          <label>
+            <span>Latitude</span>
+            <input name="lat" type="number" step="any" [(ngModel)]="values.lat" required />
+          </label>
+          <label>
+            <span>Longitude</span>
+            <input name="lon" type="number" step="any" [(ngModel)]="values.lon" required />
+          </label>
+        </div>
+        <p class="geo-hint">Sert à choisir la pharmacie la plus proche. Par défaut : centre de Tunis.</p>
+      </details>
+    </fieldset>
+
+    <button type="submit" class="submit" [disabled]="loading() || f.invalid">
+      @if (loading()) { Vérification en cours } @else { Vérifier la commande }
+    </button>
+  </form>
+</section>
